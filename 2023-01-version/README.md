@@ -6,11 +6,23 @@ This version of the double pass breadboard was ordered in January of 2023.  We h
 1x file_name.step (etc.)
 
 ### Machined parts
+The file types of the drawings are not supported. Links to location in the drive:
+https://drive.google.com/open?id=1YvjQak18hdsUjOcQHWJoqq3adjisLcIZ&usp=drive_copy
 
 ### Newport
-5x?
+(6x)   ZeroDrift Optical Mount   ST05-F2H
 
 ### Thorlabs
+(1x) Lens Mount LMR1
+(1x) Mounted Standard Iris ID8
+(2x) FiberBench Wall Plate HCA3
+(1x) Ceramic Pedestal Pillar Post RS05PC
+(1x) Plano-Convex Lens LA1131-A-ML
+(1x) Dual Rotation Mount DLM1
+(2x) Achromatic FiberPort PAF2A-A10B
+(1x) Polarizing Beam Splitter PBS202
+(1x) Broadband Dielectric Mirror BB05-E02-10
+
 
 
 # Next generation improvements to consider
@@ -19,5 +31,5 @@ This version of the double pass breadboard was ordered in January of 2023.  We h
 * Some of the edges could be trimmed to make the board even smaller.
 * Maybe use channels for the screw holes in the mirror mounts so they can be translated continuously (in addition to/instead of having multiple screw holes in the breadboard)  
 * Check operation of the collars on mirror mounts - tightening them sometimes messes with alignment  
-* Mismatched models for the two fiber holders (various focal lengths and beam widths). While not critical to the operation of the breadboard, these should be the same.
-* Lens mount should be on a translation stage like the double pass mirror mount (or at least on a removable mount of its own)
+* Mismatched models for the two fiber holders, should check if its a problem
+* Put lens on a slide mount
