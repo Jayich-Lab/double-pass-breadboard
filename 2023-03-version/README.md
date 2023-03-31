@@ -10,18 +10,19 @@ The file types of the drawings are not supported. Links to location in the drive
 https://drive.google.com/open?id=1YvjQak18hdsUjOcQHWJoqq3adjisLcIZ&usp=drive_copy
 
 ### Newport
-(6x)   ZeroDrift Optical Mount   ST05-F2H
+(6x)  ZeroDrift Optical Mount  [ST05-F2H](https://www.newport.com/p/ST05-F2H)
 
 ### Thorlabs
-* (1x) Lens Mount LMR1
-* (1x) Mounted Standard Iris ID8
-* (2x) FiberBench Wall Plate HCA3
-* (1x) Ceramic Pedestal Pillar Post RS05PC
-* (1x) Plano-Convex Lens LA1131-A-ML
-* (1x) Dual Rotation Mount DLM1
-* (2x) Achromatic FiberPort PAF2A-A10B
-* (1x) Polarizing Beam Splitter PBS202
-* (1x) Broadband Dielectric Mirror BB05-E02-10
+* (1x)  Lens Mount                  [LMR1](https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0)
+* (1x)  Mounted Standard Iris       [ID8](https://www.thorlabs.com/thorproduct.cfm?partnumber=ID8)
+* (2x)  FiberBench Wall Plate       [HCA3](https://www.thorlabs.com/thorproduct.cfm?partnumber=HCA3)
+
+
+* (1x)  Plano-Convex Lens           [LA1131-A-ML](https://www.thorlabs.com/thorproduct.cfm?partnumber=LA1131-A-ML)
+* (1x)  Dual Rotation Mount         [DLM1](https://www.thorlabs.com/thorproduct.cfm?partnumber=DLM1#ad-image-0)
+* (2x)  Achromatic FiberPort        [PAF2A-A10B](https://www.thorlabs.com/thorproduct.cfm?partnumber=PAF2A-A10B)
+* (1x)  Polarizing Beam Splitter    [PBS202](https://www.thorlabs.com/thorproduct.cfm?partnumber=PBS202)
+* (1x)  Broadband Dielectric Mirror [BB05-E02-10](https://www.thorlabs.com/thorproduct.cfm?partnumber=BB05-E02-10)
 
 
 
