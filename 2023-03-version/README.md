@@ -15,8 +15,8 @@ https://drive.google.com/open?id=1YvjQak18hdsUjOcQHWJoqq3adjisLcIZ&usp=drive_cop
 * (1x)  Lens Mount                  [LMR1](https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0)
 * (1x)  Mounted Standard Iris       [ID8](https://www.thorlabs.com/thorproduct.cfm?partnumber=ID8)
 * (2x)  FiberBench Wall Plate       [HCA3](https://www.thorlabs.com/thorproduct.cfm?partnumber=HCA3)
-
-
+* (2x)  Port Post Mounting Bracket  [HCP](https://www.thorlabs.com/thorproduct.cfm?partnumber=HCP)
+* (1x)  AOM Mount                   [KM100PM/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=KM100PM/M)
 * (1x)  Plano-Convex Lens           [LA1131-A-ML](https://www.thorlabs.com/thorproduct.cfm?partnumber=LA1131-A-ML)
 * (1x)  Dual Rotation Mount         [DLM1](https://www.thorlabs.com/thorproduct.cfm?partnumber=DLM1#ad-image-0)
 * (2x)  Achromatic FiberPort        [PAF2A-A10B](https://www.thorlabs.com/thorproduct.cfm?partnumber=PAF2A-A10B)
