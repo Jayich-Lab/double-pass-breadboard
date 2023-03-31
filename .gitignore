@@ -1,2 +1,18 @@
+# Miscellaneous
+*.key
+*.log
 
-.DS_Store
+# Visual Studio
+*.suo
+*.sqlite
+*.sqlite-journal
+*.json
+*.pyproj
+*.sln
+
+
+# Powershell scripts
+*.ps1
+
+# Desktop services
+*.DS_Store
