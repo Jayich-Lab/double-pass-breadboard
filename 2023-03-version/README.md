@@ -9,7 +9,7 @@ The file types of the drawings are not supported. Links to location in the drive
 https://drive.google.com/open?id=1YvjQak18hdsUjOcQHWJoqq3adjisLcIZ&usp=drive_copy
 
 ### Newport
-(6x)  ZeroDrift Optical Mount  [ST05-F2H](https://www.newport.com/p/ST05-F2H)
+* (6x)  ZeroDrift Optical Mount  [ST05-F2H](https://www.newport.com/p/ST05-F2H)
 
 ### Thorlabs
 * (1x)  Lens Mount                  [LMR1](https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0)
