@@ -1,3 +1,13 @@
-# double-pass-breadboard
-<img width="739" alt="image" src="https://user-images.githubusercontent.com/63123871/226499706-103d3e54-a34d-48ae-af30-a64b3af31a3d.png">
-<img width="615" alt="image" src="https://user-images.githubusercontent.com/63123871/226499476-59a38530-5524-4b56-b8db-555a3d6837f9.png">
+# README
+
+This version of the double pass breadboard was ordered in January of 2023.  We had been referring to this as "version 2" in some loose versioning scheme.
+
+
+# Noted improvements for the next version
+
+
+* Iris holder cannot be flipped 180 degrees because it is too wide; in the current position the iris adjustment faces into the board and is difficult to reach with my fingers when the aperture is open  
+* Some of the edges could be trimmed to make the board even smaller.
+* Maybe use channels for the screw holes in the mirror mounts so they can be translated continuously (in addition to/instead of having multiple screw holes in the breadboard)  
+* Check operation of the collars on mirror mounts - tightening them sometimes messes with alignment  
+*  Mismatched models for the two fiber holders, should check if its a problem
