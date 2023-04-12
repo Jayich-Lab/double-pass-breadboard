@@ -15,6 +15,7 @@ Ideally we get some performance results plotted and include a guide to parts, as
 ### Machined parts
 Link to location in our drive of the .step files:
 https://drive.google.com/open?id=1YvjQak18hdsUjOcQHWJoqq3adjisLcIZ&usp=drive_copy
+
 Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, the smaller ones (2.845 mm) will be #4-40 screwed, and the larger ones (5.157 mm diameter) should be 1/4''-20 screwed.
 
 ### Newport
