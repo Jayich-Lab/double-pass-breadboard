@@ -25,7 +25,7 @@ Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, t
 * (1x)  Broadband Dielectric Mirror [BB05-E02-10](https://www.thorlabs.com/thorproduct.cfm?partnumber=BB05-E02-10)
 * (2x)  Fiber Port Post Mount       [HCP](https://www.thorlabs.com/thorproduct.cfm?partnumber=HCP)
 
-
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/63123871/231607907-e7545028-31c8-4828-9a40-b8fa32146381.jpg">
 
 # Next generation improvements to consider
 
