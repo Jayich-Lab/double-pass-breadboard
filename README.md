@@ -8,7 +8,7 @@ Each directory should include STEP files for all the necessary parts.  At some p
 
 Ideally we get some performance results plotted and include a guide to parts, assembly, etc.  Long term stability, temperature stability, are all to-dos.
 
-<img width="615" alt="image" src="https://user-images.githubusercontent.com/63123871/226499476-59a38530-5524-4b56-b8db-555a3d6837f9.png">
+<img width="599" alt="cost" src="https://user-images.githubusercontent.com/63123871/231609481-7296a951-1a45-4414-b5d5-492b8e8fb254.png">
 
 # Parts
 
