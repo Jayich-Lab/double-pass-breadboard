@@ -10,7 +10,7 @@ https://drive.google.com/open?id=1YvjQak18hdsUjOcQHWJoqq3adjisLcIZ&usp=drive_cop
 Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, the smaller ones (2.845 mm) will be #4-40 screwed, and the larger ones (5.157 mm diameter) should be 1/4''-20 screwed.
 
 ### Newport
-* (6x)  ZeroDrift Optical Mount  [ST05-F2H](https://www.newport.com/p/ST05-F2H)
+* (6x)  ZeroDrift Optical Mount  [ST05-F2H](https://www.newport.com/p/ST05-F2H).
 These mirrors are interchangeable with the half inch polaris mirror mounts from thorlabs.
 ### Thorlabs
 * (1x)  Lens Mount                  [LMR1](https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0)
