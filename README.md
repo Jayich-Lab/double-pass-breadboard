@@ -10,6 +10,7 @@ Ideally we get some performance results plotted and include a guide to parts, as
 
 <img width="615" alt="image" src="https://user-images.githubusercontent.com/63123871/226499476-59a38530-5524-4b56-b8db-555a3d6837f9.png">
 
+#Parts
 ### Machined parts
 Link to location in our drive of the .step files:
 https://drive.google.com/open?id=1YvjQak18hdsUjOcQHWJoqq3adjisLcIZ&usp=drive_copy
