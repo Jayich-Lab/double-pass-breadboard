@@ -1,6 +1,6 @@
 # README
 
-This version of the double pass breadboard was ordered in March of 2023.  We had been referring to this as "version 2" in some loose versioning scheme.
+This version of the double pass breadboard was ordered in March of 2023.  This is very similar to the 2023-01 version - it is slightly smaller with more moutning holes.
 
 # Parts list
 
