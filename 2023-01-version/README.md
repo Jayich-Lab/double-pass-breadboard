@@ -2,6 +2,8 @@
 
 This version of the double pass breadboard was ordered in January of 2023.  This is smaller than the 2022-12 version. 
 
+[STEP files](https://drive.google.com/drive/folders/1nZ-qsZZPSAKyFfD-MgzDFzbya65lNJV7?usp=share_link)
+
 
 The PBS mount in the picture below is a hack. With all the mounting parts this is not needed (we were waiting on an order).
 
