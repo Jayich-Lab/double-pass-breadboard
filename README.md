@@ -4,7 +4,7 @@ This repo tracks our double pass breadboards.  The goal is to realize reliable a
 
 Different versions of the breadboard are organized in directories labeled by the date (YY-MM) when the parts were *initially* ordered.
 
-Each version directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for all of the parts that need to be machined. Lab useful machining files, such as *.ipt, can certainly be included.
+Each version directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for the parts to be machined.
 
 
 <img width="599" alt="cost" src="https://user-images.githubusercontent.com/63123871/231609481-7296a951-1a45-4414-b5d5-492b8e8fb254.png">
