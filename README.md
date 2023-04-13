@@ -1,12 +1,11 @@
 # double-pass-breadboard
 
-This repo tracks our double pass breadboards.  The aim is to realize compact and reliable double pass breadboards.
+This repo tracks our double pass breadboards.  The goal is to realize reliable and compact double pass breadboards.
 
-Different versions of the breadboard are organized in directories labeled by the date that the parts were *initially* ordered - subsequent orders should not change the version.
+Different versions of the breadboard are organized in directories labeled by the date (YY-MM) when the parts were *initially* ordered.
 
-Each directory should include STEP files for all the necessary parts.  At some point getting drawings in that can be viewed online would be good. Lab useful machining files, such as *.ipt, can certainly be included.
+Each version directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for all of the parts that need to be machined. Lab useful machining files, such as *.ipt, can certainly be included.
 
-Ideally we get some performance results plotted and include a guide to parts, assembly, etc.  Long term stability, temperature stability, are all to-dos.
 
 <img width="599" alt="cost" src="https://user-images.githubusercontent.com/63123871/231609481-7296a951-1a45-4414-b5d5-492b8e8fb254.png">
 
@@ -43,3 +42,9 @@ Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, t
 * Maybe use channels for the screw holes in the mirror mounts so they can be translated continuously; although, this may complicate the design with little benefit.  
 * Check operation of the collars on mirror mounts - tightening them sometimes messes with alignment  
 * Fiber holders should be the same model
+
+
+### To-dos
+* Measure performance - long-term stability, temperature stability, 
+* A guide to parts, assembly, etc.
+
