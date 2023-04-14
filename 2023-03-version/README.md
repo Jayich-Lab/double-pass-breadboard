@@ -7,7 +7,7 @@ This version of the double pass breadboard was first ordered in March, 2023.  Th
 ### Parts to be machined
 [STEP files](https://drive.google.com/drive/folders/1z8gYKQsrM2GSww2NHeTRoyboD5y0jY1v?usp=share_link) for the parts to be machined.
 
-* 1x waveplate_mount_step
+* 2x waveplate_mount_step
 * 1x PBS_mount_step
 * 1x mirror_slide_step
 * 1x iris_mount_step
