@@ -29,11 +29,11 @@ Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, t
 
 # Assembly
 
-###Polarizing Beam Splitter Handling
+### Polarizing Beam Splitter Handling
 We use [Devcon 5 Minute Epoxy](https://itwperformancepolymers.com/products/devcon-5-minute-epoxy/) to secure Polarizing Beam Splitters onto their mounts. 
 - Note: use only a spot of glue on each corner not touching the line splitting the cube in half. If glue touches this line, it will seep in over the span of ~years, eventually ruining the PBS.
 
-###Maximizing Double Pass Efficiency
+### Maximizing Double Pass Efficiency
 * Place the input fiber port, adjust two mirrors until the beam is completely horizontal. Use a beam profiler to observe the beam far away from the fiber port to make sure that the beam is not diverging. This step is important to get a decent efficiency on the AOM and output fiber port.
 * Place the half wave plate, and a PBS on the beam path.
 * Place the AOM. Adjust the height of incoming beam to let the beam pass through the aperture at the center. Keep the beam horizontal when adjusting the beam height. If the beam is too high/low, the beam will be clipped or not symmetric on the beam profiler.
