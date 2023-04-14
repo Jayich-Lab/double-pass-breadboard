@@ -30,10 +30,6 @@ This version of the double pass breadboard was first ordered in March, 2023.  Th
 * 1x [PBS202 Polarizing Beam Splitter](https://www.thorlabs.com/thorproduct.cfm?partnumber=PBS202)
 * 1x [BB05-E02-10 Broadband Dielectric Mirror](https://www.thorlabs.com/thorproduct.cfm?partnumber=BB05-E02-10)
 
- <p align="right" img src="2023-03-partially-assembled.jpg" width="400">
-
-
- <p align="right"> <img src="2023-03-partially-assembled.jpg" width="400"> </p>
 
 # Future improvements
 
