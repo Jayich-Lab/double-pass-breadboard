@@ -13,7 +13,8 @@ Partially assembled 2023-03 version:
 
 # To-dos
 * Measure performance - long-term stability, temperature stability, 
-
+* Annotate a picture of a fully assembled breadboard, including laser paths to help clarify the instructions below.  
+* Diagram of the double pass setup.
 
 
 # Assembly notes
