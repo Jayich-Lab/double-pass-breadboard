@@ -33,7 +33,7 @@ Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, t
 We use [Devcon 5 Minute Epoxy](https://itwperformancepolymers.com/products/devcon-5-minute-epoxy/) to secure Polarizing Beam Splitters onto their mounts. 
 - Note: use only a spot of glue on each corner not touching the line splitting the cube in half. If glue touches this line, it will seep in over the span of ~years, eventually ruining the PBS.
 
-### Waveplate ordering
+### Waveplate Assembly
 The first waveplate after the beginning fiber port is a quarter waveplate, and is immediately followed by a half waveplate. The waveplate after the AOM is a quarter waveplate.
 
 ### Maximizing Double Pass Efficiency
