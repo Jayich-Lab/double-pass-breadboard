@@ -2,7 +2,7 @@
 
 This version of the double pass breadboard was first ordered in March, 2023.  This is very similar to the 2023-01-version - it is slightly smaller and includes more moutning holes.
 
-![](double-pass-breadboard/2023-03-version/2023-03-partially-assembled.jpg | width=200)
+![](/double-pass-breadboard/2023-03-version/2023-03-partially-assembled.jpg | width=200)
 
  <image align="right" img src="2023-03-partially-assembled.jpg" width="400"></image>
 
