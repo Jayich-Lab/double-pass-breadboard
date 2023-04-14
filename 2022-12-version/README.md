@@ -19,8 +19,10 @@ This version of the double pass breadboard was ordered in December of 2022.
 
 
 ### Wuhan Union Optic Inc
-* 2x Quarter Waveplate
-* 1x Half waveplate
+* 2x Quarter Waveplate (728 nm)
+* 1x Half waveplate (728 nm)
+
+We custom order our waveplates from [Union Optic](https://www.u-optic.com/index/siteid/2.html), as the frequencies we need are not always in Thorlabs or Union Optics catalogues. 728 nm waveplates, for example, are not listed in either website. Before placing a custom order, check [Thorlabs](https://www.thorlabs.com/) and [Union Optic](https://www.u-optic.com/index/siteid/2.html) to see if it is readily available.
 
 ### Thorlabs
 * 1x [LMR1 Lens Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0)
