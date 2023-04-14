@@ -11,7 +11,7 @@ Partially assembled 2023-03 version:
 
 
 
-### To-dos
+# To-dos
 * Measure performance - long-term stability, temperature stability, 
 
 
@@ -26,8 +26,8 @@ We use [Devcon 5 Minute Epoxy](https://itwperformancepolymers.com/products/devco
 After the input fiber port is a quarter waveplate and a half waveplate. The waveplate after the AOM is a quarter waveplate.
 
 ### Maximizing Double Pass Efficiency
-* Place the input fiber port, adjust two mirrors until the beam is completely horizontal. Use a beam profiler to observe the beam far away from the fiber port to make sure that the beam is not diverging. This step is important to get a decent efficiency on the AOM and output fiber port.
-* Place the half wave plate, and a PBS on the beam path.
+* Place the input fiber port, adjust two mirrors until the beam is horizontal. Use a beam profiler to measure the beam far away from the fiber port to minimize beam divergence. This step is important to get decent AOM diffraction efficiency reasonable output fiber coupling.
+* Place the half wave plate, and a PBS in the beam path.
 * Place the AOM. Adjust the height of incoming beam to let the beam pass through the aperture at the center. Keep the beam horizontal when adjusting the beam height. If the beam is too high/low, the beam will be clipped or not symmetric on the beam profiler.
 * Place an iris after the AOM to select the desired defracted beam. Adjust angle of the AOM until the diffraction efficiency is highest at the frequency desired. 
 Check the single pass bandwidth by changing the AOM driving frequency. Adjust the AOM to make sure that efficiency would be high enough for the frequency we are interested in. Also make sure the first order beam is not clipped and second order beam is not selected by the iris in the interested frequency range. Record the bandwidth for the single pass.
