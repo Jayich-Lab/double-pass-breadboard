@@ -31,8 +31,8 @@ This version of the double pass breadboard was first ordered in March, 2023.  Th
 
 
 
-![Paritally assembled board](2023-03-partially-assembled.jpg | width = 50)
-
+![Paritally assembled board](2023-03-partially-assembled.jpg)
+<img src="https://github.com/2023-03-partially-assembled.jpg" width="48">
 
 # Future improvements
 
