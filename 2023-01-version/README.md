@@ -5,7 +5,7 @@ This version of the double pass breadboard was first ordered in January, 2023. T
 The PBS mount in the picture below is a hack. With all the mounting parts this is not needed (we were waiting on an order).
 
 # Parts
- <image align="right" img src="https://user-images.githubusercontent.com/63123871/231607416-c20247d6-4d55-4785-b397-88617b3494cd.jpg"></image>
+<image align="right" img src="https://user-images.githubusercontent.com/63123871/231607416-c20247d6-4d55-4785-b397-88617b3494cd.jpg"></image>
 ### Parts to be machined
 [STEP files](https://drive.google.com/drive/folders/1z8gYKQsrM2GSww2NHeTRoyboD5y0jY1v?usp=share_link) for the parts to be machined.
 
