@@ -18,7 +18,6 @@ This version of the double pass breadboard was first ordered in March, 2023.  Th
 * 6x [ST05-F2H ZeroDrift Optical Mount](https://www.newport.com/p/ST05-F2H) (interchangeable with [Thorlabs Polaris half inch low drift mirror mounts](https://www.thorlabs.com/thorproduct.cfm?partnumber=POLARIS-K05C4))
 
 ### Thorlabs
- <p align="right"> <img src="2023-03-partially-assembled.jpg" width="400"> </p>
 * 1x [LMR1 Lens Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0)
 * 1x [ID8 Mounted Standard Iris](https://www.thorlabs.com/thorproduct.cfm?partnumber=ID8)
 * 2x [HCA3 FiberBench Wall Plate](https://www.thorlabs.com/thorproduct.cfm?partnumber=HCA3)
@@ -30,7 +29,7 @@ This version of the double pass breadboard was first ordered in March, 2023.  Th
 * 1x [PBS202 Polarizing Beam Splitter](https://www.thorlabs.com/thorproduct.cfm?partnumber=PBS202)
 * 1x [BB05-E02-10 Broadband Dielectric Mirror](https://www.thorlabs.com/thorproduct.cfm?partnumber=BB05-E02-10)
 
-
+ <p align="right"> <img src="2023-03-partially-assembled.jpg" width="400"> </p>
 
 
 
