@@ -23,7 +23,7 @@ This version of the double pass breadboard was ordered in December of 2022.
 * 2x [HCA3 FiberBench Wall Plate](https://www.thorlabs.com/thorproduct.cfm?partnumber=HCA3)
 * 2x [HCP Post Mounting Bracket for FiberPorts](https://www.thorlabs.com/thorproduct.cfm?partnumber=HCP)
 * 1x [KM100PM/M AOM Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=KM100PM/M)
-* 1x [LA1131-A-ML Plano-Convex Lens](https://www.thorlabs.com/thorproduct.cfm?partnumber=LA1131-A-ML)
+* 1x [CM127-050-E02 Concave Mirror](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=6636)
 * 1x [DLM1 Dual Rotation Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=DLM1#ad-image-0)
 * 2x [PAF2A-A10B Achromatic FiberPort](https://www.thorlabs.com/thorproduct.cfm?partnumber=PAF2A-A10B)
 * 1x [PBS202 Polarizing Beam Splitter](https://www.thorlabs.com/thorproduct.cfm?partnumber=PBS202)
