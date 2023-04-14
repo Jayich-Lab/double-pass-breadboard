@@ -1,40 +1,30 @@
 # double-pass-breadboard
 
-This repo tracks our double pass breadboards.  The goal is to realize reliable and compact double pass breadboards.
+This repo tracks our double pass breadboards.  The goal is to realize reliable, modular, and compact double pass AOM systems for controlling the frequency and amplitude of laser light.  This project was directly inspired by work in [Ike Chuang's group](http://web.mit.edu/~cua/www/quanta/).
 
 Different versions of the breadboard are organized in directories labeled by the date (YY-MM) when the parts were *initially* ordered.
 
-Each version directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for the parts to be machined.
+Each version directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for the parts to be machined, as well as other notes on the version.
 
 
 <img width="599" alt="cost" src="https://user-images.githubusercontent.com/63123871/231609481-7296a951-1a45-4414-b5d5-492b8e8fb254.png">
-
-# Parts
-
-### Machined parts
-Link to location in our drive of the .step files needed for the most up-to-date version of the board:
-https://drive.google.com/open?id=1YvjQak18hdsUjOcQHWJoqq3adjisLcIZ&usp=drive_copy
-
-Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, the smaller ones (2.845 mm) should be #4-40 screwed, and the larger ones (5.157 mm diameter) should be 1/4''-20 screwed.
-
 
 
 
 
 ### To-dos
 * Measure performance - long-term stability, temperature stability, 
-* A guide to parts, assembly, etc.
 
 
 
-# Assembly
+# Assembly notes
 
 ### Polarizing Beam Splitter Handling
-We use [Devcon 5 Minute Epoxy](https://itwperformancepolymers.com/products/devcon-5-minute-epoxy/) to secure Polarizing Beam Splitters onto their mounts. 
-- Note: use only a spot of glue on each corner not touching the line splitting the cube in half. If glue touches this line, it will seep in over the span of ~years, eventually ruining the PBS.
+We use [Devcon 5 Minute Epoxy](https://itwperformancepolymers.com/products/devcon-5-minute-epoxy/) to secure Polarizing Beam Splitters to their mounts. 
+- Note: use only a little dab of epoxy for a single corner and avoiding line joining the two halves of the cube. If epoxy contacts this joint, it will seep in over time, eventually ruining the PBS.
 
-### Waveplate Assembly
-The first waveplate after the beginning fiber port is a quarter waveplate, and is immediately followed by a half waveplate. The waveplate after the AOM is a quarter waveplate.
+### Waveplates
+After the input fiber port is a quarter waveplate and a half waveplate. The waveplate after the AOM is a quarter waveplate.
 
 ### Maximizing Double Pass Efficiency
 * Place the input fiber port, adjust two mirrors until the beam is completely horizontal. Use a beam profiler to observe the beam far away from the fiber port to make sure that the beam is not diverging. This step is important to get a decent efficiency on the AOM and output fiber port.
@@ -50,3 +40,10 @@ After finding the distance between the AOM and plano-convex lens, place the lens
 * Check the double pass efficiency before fiber coupling. Check the bandwidth and it should be smaller, but comparable to the single pass bandwidth recorded in step 6.
 * If the bandwidth is significantly smaller for the double pass, then adjust the distance between the AOM and the lens to improve the bandwidth.
 * After the bandwidth before fiber coupling is fixed, couple the light into a fiber using two mirrors. Check the after fiber coupling efficiency. 
+
+
+# Machining notes
+
+### Machined parts
+
+Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, the smaller ones (2.845 mm) should be #4-40 screwed, and the larger ones (5.157 mm diameter) should be 1/4''-20 screwed.
