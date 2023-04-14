@@ -27,9 +27,9 @@ This version of the double pass breadboard was first ordered in March, 2023.  Th
 * 1x [DLM1 Dual Rotation Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=DLM1#ad-image-0)
 * 2x [PAF2A-A10B Achromatic FiberPort](https://www.thorlabs.com/thorproduct.cfm?partnumber=PAF2A-A10B)
 * 1x [PBS202 Polarizing Beam Splitter](https://www.thorlabs.com/thorproduct.cfm?partnumber=PBS202)
-* 1x [BB05-E03-10 Broadband Dielectric Mirror](https://www.thorlabs.com/thorproduct.cfm?partnumber=BB05-E03-10)
+* 1x [BB05-E02-10 Broadband Dielectric Mirror](https://www.thorlabs.com/thorproduct.cfm?partnumber=BB05-E02-10)
 
-Note: the optics above are an example that can be used for 802nm light. When considering different wavelengths, the Fiber Port, PBS, mirrors, lens, and waveplates may need to be changed
+Note: the optics above are an example that can be used for 728nm light. When considering different wavelengths, the Fiber Port, PBS, mirrors, lens, and waveplates may need to be changed
 
 # Future improvements
 
