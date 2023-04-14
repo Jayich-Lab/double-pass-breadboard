@@ -3,6 +3,7 @@
 This version of the double pass breadboard was first ordered in March, 2023.  This is very similar to the 2023-01-version - it is slightly smaller and includes more moutning holes.
 
 
+Partially assembled system, the AOM is not installed and the beamsplitter is not epoxied down.
 
  <image img src="2023-03-partially-assembled.jpg" width="600"></image>
 
