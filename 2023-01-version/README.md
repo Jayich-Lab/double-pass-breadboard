@@ -23,6 +23,8 @@ The PBS mount in the picture below is a hack. With all the mounting parts this i
 * 2x Quarter Waveplate
 * 1x Half waveplate
 
+We custom order our waveplates from [Union Optic](https://www.u-optic.com/index/siteid/2.html), as the frequencies we need are not always in Thorlabs or Union Optics catalogues. 728 nm waveplates, for example, are not listed in either website. Before placing a custom order, check [Thorlabs](https://www.thorlabs.com/) and [Union Optic](https://www.u-optic.com/index/siteid/2.html) to see if it is readily available.
+
 ### Thorlabs
 * 1x [LMR1 Lens Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0)
 * 1x [ID8 Mounted Standard Iris](https://www.thorlabs.com/thorproduct.cfm?partnumber=ID8)
