@@ -31,7 +31,7 @@ This version of the double pass breadboard was first ordered in March, 2023.  Th
 
 
 
-<p align="center">
+<p align="right">
 <img src="2023-03-partially-assembled.jpg" width="400">
 
 # Future improvements
