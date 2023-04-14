@@ -3,7 +3,7 @@
 This version of the double pass breadboard was ordered in December of 2022.  
 
 # Parts
-<image align="right" img src="https://user-images.githubusercontent.com/63123871/226499706-103d3e54-a34d-48ae-af30-a64b3af31a3d.png" width="400"></image>
+<image align="right" img src="https://user-images.githubusercontent.com/63123871/226499706-103d3e54-a34d-48ae-af30-a64b3af31a3d.png" width="600"></image>
 ### Parts to be machined
 [STEP files](https://drive.google.com/drive/u/0/folders/1Bk0aQH1Ow8UR-J9PnCqthbQSKNkiEtzU) for the parts to be machined.
 
