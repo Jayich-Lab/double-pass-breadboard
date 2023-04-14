@@ -4,6 +4,7 @@ This version of the double pass breadboard was first ordered in March, 2023.  Th
 
 # Parts
  <image align="right" img src="2023-03-partially-assembled.jpg" width="400"></image>
+ 
 ### Parts to be machined
 [STEP files](https://drive.google.com/drive/folders/1z8gYKQsrM2GSww2NHeTRoyboD5y0jY1v?usp=share_link) for the parts to be machined.
 
@@ -18,10 +19,10 @@ This version of the double pass breadboard was first ordered in March, 2023.  Th
 * 6x [ST05-F2H ZeroDrift Optical Mount](https://www.newport.com/p/ST05-F2H) (interchangeable with [Thorlabs Polaris half inch low drift mirror mounts](https://www.thorlabs.com/thorproduct.cfm?partnumber=POLARIS-K05C4))
 
 ### Wuhan Union Optic Inc
-* 2x Quarter Waveplate (728 nm)
-* 1x Half waveplate (728 nm)
+* 2x Quarter waveplates
+* 1x Half waveplate 
 
-We custom order our waveplates from [Union Optic](https://www.u-optic.com/index/siteid/2.html), as the frequencies we need are not always in Thorlabs or Union Optics catalogues. 728 nm waveplates, for example, are not listed in either website. Before placing a custom order, check [Thorlabs](https://www.thorlabs.com/) and [Union Optic](https://www.u-optic.com/index/siteid/2.html) to see if it is readily available.
+We get our waveplates from [Union Optic](https://www.u-optic.com/index/siteid/2.html). If the waveplates are not in the standard [Union Optic catalog](https://www.u-optic.com/index/siteid/2.html) we order custom waveplates, this is often the case.
 
 ### Thorlabs
 * 1x [LMR1 Lens Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0)
@@ -36,7 +37,7 @@ We custom order our waveplates from [Union Optic](https://www.u-optic.com/index/
 * 1x [BB05-E02-10 Broadband Dielectric Mirror](https://www.thorlabs.com/thorproduct.cfm?partnumber=BB05-E02-10)
 * 1x [RSP1 Rotation Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=RSP1#ad-image-0)
 
-Note: the optics above are an example that can be used for 728nm light. When considering different wavelengths, the Fiber Port, PBS, mirrors, lens, and waveplates may need to be changed
+Note: the optics above are an example that can be used for 728nm light. When considering different wavelengths, the Fiber Port, PBS, mirrors, lens, and waveplates may need to be changed.
 
 # Future improvements
 
