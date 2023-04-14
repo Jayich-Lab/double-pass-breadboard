@@ -7,7 +7,7 @@ The PBS mount in the picture below is a hack. With all the mounting parts this i
 # Parts
 <image align="right" img src="https://user-images.githubusercontent.com/63123871/231607416-c20247d6-4d55-4785-b397-88617b3494cd.jpg" width="400"></image>
 ### Parts to be machined
-[STEP files](https://drive.google.com/drive/folders/1z8gYKQsrM2GSww2NHeTRoyboD5y0jY1v?usp=share_link) for the parts to be machined.
+[STEP files](https://drive.google.com/drive/u/0/folders/1nD5TpH6GJ4PaINz6TMQDM_oo5xbCrWec) for the parts to be machined.
 
 * 1x waveplate_mount_step
 * 1x PBS_mount_step
