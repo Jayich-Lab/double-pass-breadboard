@@ -5,7 +5,7 @@ This repo tracks our double pass breadboards.  The goal is to realize reliable, 
 Different versions of the breadboard are organized in directories labeled by the date (YY-MM) when the parts were *initially* ordered.  Each directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for the parts to be machined, as well as other notes on the version.
 
 
-Partially assembled 2023-03 version:
+Partially assembled 2023-03 version:  
  <image img src="./2023-03-version/2023-03-partially-assembled.jpg" width="600"></image>
 
 
