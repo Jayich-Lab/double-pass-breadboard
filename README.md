@@ -15,7 +15,7 @@ Each version directory includes a README with a link to the corresponding STEP f
 Link to location in our drive of the .step files needed for the most up-to-date version of the board:
 https://drive.google.com/open?id=1YvjQak18hdsUjOcQHWJoqq3adjisLcIZ&usp=drive_copy
 
-Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, the smaller ones (2.845 mm) will be #4-40 screwed, and the larger ones (5.157 mm diameter) should be 1/4''-20 screwed.
+Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, the smaller ones (2.845 mm) should be #4-40 screwed, and the larger ones (5.157 mm diameter) should be 1/4''-20 screwed.
 
 
 
