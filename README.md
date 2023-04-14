@@ -2,13 +2,10 @@
 
 This repo tracks our double pass breadboards.  The goal is to realize reliable, modular, and compact double pass AOM systems for controlling the frequency and amplitude of laser light.  This project was directly inspired by work in [Ike Chuang's group](http://web.mit.edu/~cua/www/quanta/).
 
-Different versions of the breadboard are organized in directories labeled by the date (YY-MM) when the parts were *initially* ordered.
-
-Each version directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for the parts to be machined, as well as other notes on the version.
+Different versions of the breadboard are organized in directories labeled by the date (YY-MM) when the parts were *initially* ordered.  Each directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for the parts to be machined, as well as other notes on the version.
 
 
 <img width="599" alt="cost" src="https://user-images.githubusercontent.com/63123871/231609481-7296a951-1a45-4414-b5d5-492b8e8fb254.png">
-
 
 
 
