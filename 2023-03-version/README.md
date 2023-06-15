@@ -50,4 +50,5 @@ Note: the optics above are an example that can be used for 728nm light. When con
 * The iris holder cannot be flipped 180 degrees because it is too wide.  In the current position the iris adjustment faces into the board and is difficult to access by finger when the aperture is open.  
 * Board edges could be trimmed to make the board even smaller.
 * Maybe use channels for the screw through holes in the mirror mounts so they can be translated continuously; although, this may complicate the design with little benefit.  
-* Check operation of the collars on mirror mounts - tightening them sometimes results in misalignment.  
+* Check operation of the collars on mirror mounts - tightening them sometimes results in misalignment.
+* Cut knobs on the AOM mount to improve stability - this will take some thought to make sure efficiency can remain high.
