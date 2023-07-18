@@ -4,8 +4,6 @@ This version of the double pass breadboard was first ordered in June, 2023. This
 
 # Parts
 
-### Acousto-Optic Frequency Shifter
- 
 ### Parts to be machined
 [STEP files](https://drive.google.com/drive/folders/1tglj8InTGoLq4X3He1ftFIY83VYrIk3X?usp=drive_link) for the parts to be machined.
 
@@ -15,7 +13,6 @@ This version of the double pass breadboard was first ordered in June, 2023. This
 * 1x iris_mount
 * 1x lens_mount
 * 1x breadboard_base
-
 
 ### Newport
 * 6x [ST05-F2H ZeroDrift Optical Mount](https://www.newport.com/p/ST05-F2H)
@@ -43,5 +40,6 @@ Note: the optics above are an example that can be used for 728nm light. When con
 
 # Future improvements
 
+* The fiber port mounting holes are too small and a washer needs to be used between the port and breadboard base. Make these deeper and give the coutner-bore a slightly larger radius to account for machining tolerances
 * Fix the AOM position more firmly (eliminate the translational stage)
 * Make more space around the iris holder so it does not get as close to the wavplate housing, possibly redesign how the iris is mounted
