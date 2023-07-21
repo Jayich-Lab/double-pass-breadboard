@@ -1,6 +1,6 @@
 # README
 
-This version of the double pass breadboard was first ordered in June, 2023. This is similar to the 2023-03-version but with a smaller base and unnecessary holes have been removed. The waveplate mounts have been extended to move the moutning screw further away from the waveplate housing. The fiber ports are mounted directly to the base.
+This version of the double pass breadboard was first ordered in June, 2023. This is similar to the 2023-03-version but with a smaller base and unnecessary holes have been removed. The waveplate mounts have been extended to move the moutning screw further away from the waveplate housing. The fiber ports are mounted directly to the base. A machined mounting plate for the lens has been added.
 
 # Parts
 
@@ -36,10 +36,9 @@ We get our waveplates and PBS from [Union Optic](https://www.u-optic.com/index/s
 * 1x [BB05-E02-10 Broadband Dielectric Mirror](https://www.thorlabs.com/thorproduct.cfm?partnumber=BB05-E02-10)
 * 1x [RSP1 Rotation Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=RSP1#ad-image-0)
 
-Note: the optics above are an example that can be used for 728nm light. When considering different wavelengths, the Fiber Port, PBS, mirrors, lens, and waveplates may need to be changed.
-
 # Future improvements
 
-* The fiber port mounting holes are too small and a washer needs to be used between the port and breadboard base. Make these deeper and give the coutner-bore a slightly larger radius to account for machining tolerances
-* Fix the AOM position more firmly (eliminate the translational stage)
+* The fiber port mounting holes are too small and a washer needs to be used between the port and breadboard base. Make these holes deeper and give the coutner-bore a slightly larger radius to account for machining tolerances
+* Model the lens mount after the waveplate mounts, particularly the counterbored screw hole. Make this a translation stage (like the double-pass mirror) for aligning the distance between the lens and AOM.
+* Fix the AOM position (eliminate the kinematic mount)
 * Make more space around the iris holder so it does not get as close to the wavplate housing, possibly redesign how the iris is mounted
