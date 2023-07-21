@@ -33,11 +33,13 @@ We get our waveplates and PBS from [Union Optic](https://www.u-optic.com/index/s
 * 1x [DLM1 Dual Rotation Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=DLM1#ad-image-0)
 * 2x [PAF2A-A10B Achromatic FiberPort](https://www.thorlabs.com/thorproduct.cfm?partnumber=PAF2A-A10B)
 * 1x [BB05-E02-10 Broadband Dielectric Mirror](https://www.thorlabs.com/thorproduct.cfm?partnumber=BB05-E02-10)
-* 1x [RSP1 Rotation Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=RSP1#ad-image-0)
+* 1x [LM1-B Rotation Mount]((https://www.thorlabs.com/thorproduct.cfm?partnumber=LM1-B))
+* 1x [LM1-A Rotating Inner Carriage](https://www.thorlabs.com/thorproduct.cfm?partnumber=LM1-A)
 
 # Future improvements
 
 * The fiber port mounting holes are too small and a washer needs to be used between the port and breadboard base. Make these holes deeper and give the coutner-bore a slightly larger radius to account for machining tolerances
 * Model the lens mount after the waveplate mounts, particularly the counterbored screw hole. Make this a translation stage (like the double-pass mirror) for aligning the distance between the lens and AOM.
 * Fix the AOM position (eliminate the kinematic mount)
+* The iris listed above comes with a glued in screw which can be difficult to remove and is too short to use with the aluminum mount
 * Make more space around the iris holder so it does not get as close to the wavplate housing, possibly redesign how the iris is mounted
