@@ -1,6 +1,6 @@
 # README
 
-This version of the double pass breadboard was first ordered in June, 2023. This is similar to the 2023-03-version but with a smaller base and unnecessary holes have been removed. The waveplate mounts have been extended to move the moutning screw further away from the waveplate housing. The fiber ports are mounted directly to the base. A machined mounting plate for the lens has been added.
+This version of the double pass breadboard was first ordered in June, 2023. It is similar to the 2023-03-version but with a smaller base and unnecessary holes have been removed. The waveplate mounts have been extended to move the mounting screw further away from the waveplate housing. The fiber ports are mounted directly to the base. A machined mounting plate for the lens has been added.
 
 # Parts
 
