@@ -40,7 +40,7 @@ Note: the optics above are an example that can be used for 728nm light. When con
 
 # Future improvements
 
-* The fiber port mounting holes are too small and a washer needs to be used between the port and breadboard base. Make these holes deeper and give the coutner-bore a slightly larger radius to account for machining tolerances
+* The fiber port mounting holes are too small and a washer needs to be used between the port and breadboard base. Make these holes deeper and give the counterbore a slightly larger radius to account for machining tolerances
 * Model the lens mount after the waveplate mounts, particularly the counterbored screw hole. Make this a translation stage (like the double-pass mirror) for aligning the distance between the lens and AOM.
 * Fix the AOM position (eliminate the kinematic mount)
 * The iris listed above comes with a glued in screw which can be difficult to remove and is too short to use with the aluminum mount
