@@ -1,12 +1,12 @@
 # double-pass-breadboard
 
-This repo tracks our double pass breadboards.  The goal is to realize reliable, modular, and compact double pass AOM systems for controlling the frequency and amplitude of laser light.  This project was directly inspired by work in [Ike Chuang's group](http://web.mit.edu/~cua/www/quanta/).
+This repo tracks our double pass breadboards.  The goal is to realize stable, modular, and compact double pass AOM systems for controlling the frequency and amplitude of laser light.  This project was directly inspired by work in [Ike Chuang's group](http://web.mit.edu/~cua/www/quanta/).
 
-Different versions of the breadboard are organized in directories labeled by the date (YY-MM) when the parts were *initially* ordered.  Each directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for the parts to be machined, as well as other notes on the version.
+Different versions of the breadboard are organized in directories labeled by the date (YY-MM) when the parts were *initially* ordered.  Each directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for the parts to be machined.
 
 
-Partially assembled 2023-03 version:  
- <image img src="./2023-03-version/2023-03-partially-assembled.jpg" width="600"></image>
+Assembled 2023-03 version:  
+ <image img src="./2023-03-version/2023-03-assembled.jpg" width="600"></image>
 
 
 
@@ -20,8 +20,8 @@ Partially assembled 2023-03 version:
 # Assembly notes
 
 ### Polarizing Beam Splitter Handling
-We use [Devcon 5 Minute Epoxy](https://itwperformancepolymers.com/products/devcon-5-minute-epoxy/) to secure Polarizing Beam Splitters to their mounts. 
-- Note: use only a little dab of epoxy for a single corner and avoiding line joining the two halves of the cube. If epoxy contacts this joint, it will seep in over time, eventually ruining the PBS.
+We use [Devcon 5 Minute Epoxy](https://itwperformancepolymers.com/products/devcon-5-minute-epoxy/) to secure polarizing beam splitter (PBS) cubes to their mounts. 
+- Note: use only a little dab of epoxy for a single corner and avoid the joint between the two halves of the cube. If epoxy contacts this joint, it will seep in over time, eventually ruining the PBS.
 
 ### Waveplates
 After the input fiber port is a quarter waveplate and a half waveplate. The waveplate after the AOM is a quarter waveplate.
