@@ -2,7 +2,7 @@
 
 This version of the double pass breadboard was first ordered in October, 2023. The AOM is mounted using a custom aluminum part that fixes pitch and roll; the AOM angle is adjusted by rotating the mount and screwing it in place. The AOM postion is fixed along the optical axis, so the double pass is aligned by moving the lens and mirror (which are both fixed on translational mounts). The iris mount is slimmer and symmetrical, clearing more room for the lens and waveplate.
 
-The baseplate is also compatible with previous methods of mounting the lens and AOM.
+The breadboard base is also compatible with previous methods of mounting the lens and AOM.
 
 # Parts
 
