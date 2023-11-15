@@ -43,4 +43,4 @@ Note: the optics above are an example that can be used for 728nm light. When con
 
 # Future improvements
 
-* Check feasability of adding the option for half and/or quarter waveplates before output fiber (either by using smaller waveplate mounts or redesigning the board).
+* Check feasability of adding the option for half and/or quarter waveplates before output fiber (this could be fiber polarization control).
