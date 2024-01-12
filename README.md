@@ -9,8 +9,6 @@ Assembled 2023-03 version:
  <image img src="./2023-03-version/2023-03-assembled.jpg" width="600"></image>
 
 
-
-
 # To-dos
 * Measure performance - long-term stability, temperature stability, 
 * Annotate a picture of a fully assembled breadboard, including laser paths to help clarify the instructions below.  
@@ -18,6 +16,10 @@ Assembled 2023-03 version:
 
 
 # Assembly notes
+
+* Clean the machined parts before assembling.  
+* Center the laser light on the mirrors, waveplates, and PBS.  
+* Know the desired target center frequency and desired bandwidth.  
 
 ### Polarizing Beam Splitter Handling
 We use [Devcon 5 Minute Epoxy](https://itwperformancepolymers.com/products/devcon-5-minute-epoxy/) to secure polarizing beam splitter (PBS) cubes to their mounts. 
