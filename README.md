@@ -29,7 +29,7 @@ We use [Devcon 5 Minute Epoxy](https://itwperformancepolymers.com/products/devco
 After the input fiber port is a quarter waveplate and a half waveplate. The waveplate after the AOM is a quarter waveplate.
 
 ### Maximizing Double Pass Efficiency
-* Place the input fiber port, adjust two mirrors until the beam is horizontal. Use a beam profiler to measure the beam far away from the fiber port to minimize beam divergence. This step is important to get decent AOM diffraction efficiency reasonable output fiber coupling.
+* Place the input fiber port, adjust two mirrors until the beam is horizontal. The beam should not be diverging anywhere throughout the breadboard, so it is important to use a beam profiler to measure the beam far away (~80cm) from the fiber port and use Zθ1, Zθ2, and Zθ3 on the input port to minimize beam divergence. This step is important to get decent AOM diffraction efficiency reasonable output fiber coupling.
 * Place the half wave plate and PBS in the beam path.
 * Place the AOM. Adjust the height of the incoming beam so the beam passes through the aperture's center. Keep the beam horizontal when adjusting the beam height. If the beam is too high or too low the beam will be clipped or not symmetric on the beam profiler.
 * Place an iris after the AOM to select the desired diffraction order. Adjust the AOM's angle to maximize diffraction efficiency at the desired AOM center drive frequency. 
@@ -41,11 +41,106 @@ After setting the distance between the AOM and plano-convex lens, place the lens
 * Keep the first order beam selected using the iris. Adjust the quarter wave plate and the flat mirror until the light reflected back from the PBS is maximized.
 * Check the double pass efficiency before fiber coupling. Check the bandwidth. It should be smaller, but comparable to the single pass bandwidth recorded in step 6.
 * If the bandwidth is significantly smaller for the double pass, then adjust the distance between the AOM and the lens to improve the bandwidth.
-* Couple the light into a fiber using two mirrors. Check the after fiber coupling efficiency. 
+* Couple the light into a fiber using two mirrors. Check the after fiber coupling efficiency.
 
+### Fiber coupling with Thorlabs collimator
+* First connect a multi-mode(MM) fiber to the ouput port for initial coupling. Use reverse fiber coupling method to get a rough alignment between output fiber and the laser. The reverse fiber coupling is accomplished by inputing another beam with a visual fault locator from the other end of the output fiber and match the locator beam path to the output beam path.
+* Turn Zθ1 adjuster clockwise to maximize the output, then continue to turn slightly beyond maximum (to about 95% of your local maximum). If turning an adjuster clockwise decreases output, skip that adjuster for that round of adjustments. Repeat for Zθ2, and then Zθ3. For the rest of the colimation process keep this order of operation (Zθ1-->Zθ2-->Zθ3). The maximum seen in passing will continue to increase until lens-to-fiber spacing is optimized (spot size is minimized). This strategy has the effect of translating the beam in a triangle of decreasing width with each set of adjustments. The beam's path is shown below with the point of view of the fiber that is being coupled into.
+* ![image](https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/13e20d5a-d1d1-453d-8352-f6e63863dda7)
+* Once the local maxima values begin to decrease, reverse the direction, and turn each adjuster to maximize the output, and not beyond.
+* If coupling into a single-mode(SM) fiber, exchange the MM fiber with a SM fiber. The intensity measured by the power meter will likely drop significantly. Repeat Steps 3 and 4. The adjustments will be smaller and more sensitive. If adjustment of all screws in either direction lowers the output, the beam spot may be centered on the fiber core, but improperly focused.
+* Turn each adjuster a small amount (1/8th turn) in the same direction, then maximize each Zθ adjuster. If the new maximum is lower than the previous, turn each Zθ adjuster a small amount in the other direction and maximize. Repeat until absolute maximum is found.
+
+* For more information on the Thorlabs collimator, see [manual](https://www.thorlabs.com/drawings/19effe7ca9179470-EC8BF155-96AC-6091-8774197AF94FBEB8/PAF2P-A10A-Manual.pdf).
+
+## Tips
+
+Here are tips for some specific problems that one may encounter while assembling a DPBB.
+
+* When IntraAction AOM shows low first pass efficiency/bandwidth, and you are quite certain that there is no issue with alignment, try flipping the AOM upside down and re-align.
+* Always use broadband dielectric plane mirrors for breadboard assembly. Using mirrors with curvature may significantly reduce the fiber coupling efficiency).
 
 # Machining notes
 
 ### Machined parts
 
 Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, the smaller ones (2.845 mm) should be #4-40 screwed, and the larger ones (5.157 mm diameter) should be 1/4''-20 screwed.
+
+
+# Double-pass breadboard overview
+
+## 1/2" Version
+<img src="https://user-images.githubusercontent.com/73464010/185268244-2909a4a2-1e7b-4073-b7e3-0711badd636a.jpg" width = "500">
+
+<img src="https://user-images.githubusercontent.com/73464010/185266223-bcfe905a-9b51-402f-a7c5-59fe4334a190.jpg" width = "500">
+
+## 1" Version
+<img src="https://user-images.githubusercontent.com/73464010/185269233-cd3dfe01-da16-4b9c-9376-25dac20ec4bf.jpg" width = "500">
+
+## Existing double-pass breadboard
+### 422 (xwing) 
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/4bdea1d4-3e53-49e1-83c9-fb485a4605a3" width = "300">
+
+Double pass peak efficiency: 7% 
+
+Extinction ratio = 38dB
+
+Optical Bandwidth: 160MHz
+
+
+### 1092 (xwing)
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/bfadb000-6eb8-475d-900b-4d054a4a29d3" width = "300">
+
+Double pass peak efficiency: 18%
+
+Extinction ratio: 37dB
+
+Optical Bandwidth: 90MHz
+
+
+### 674 (D1)
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/5330cf70-b75e-4d82-a3eb-679072a29329" width = "300">
+
+Double pass peak efficiency: 10% 
+
+Extinction ratio: 35dB
+
+Optical Bandwidth: 160MHz
+
+### 1092 (D1)
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/2df410e8-e5ef-443d-814a-962d3021e2db" width = "300">
+
+Double pass peak efficiency: 17%
+
+Extinction ratio: 25dB
+
+Optical Bandwidth: 90MHz
+
+### 422 (D1)
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/b6135013-0bdf-4ff8-91fb-75d0aa759732" width = "300">
+
+Double pass peak efficiency: 5%
+
+Extinction ratio = 38dB
+
+Optical Bandwidth: 180MHz
+
+### 1033 (D1)
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/06646485-b647-45cd-9b63-aa69942b67c1" width="300">
+
+Double pass peak efficiency: 12%
+
+Extinction ratio = 30dB
+
+Optical Bandwidth: 80MHz
+
+### 674 (xwing)
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/4c486c36-9e3c-4165-a32b-ace13db81cc5" width="300">
+
+Double pass peak efficiency: 10%
+
+Extinction ratio = 31dB
+
+Optical Bandwidth: 140MHz
+
+
