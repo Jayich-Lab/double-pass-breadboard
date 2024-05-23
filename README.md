@@ -80,7 +80,7 @@ Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, t
 ## Existing double-pass breadboard
 ### 422 (xwing) 
 <img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/4bdea1d4-3e53-49e1-83c9-fb485a4605a3" width = "300">
-<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/200191fc-dabe-4640-8684-b8dae331c771" width = "300">
+
 
 
 Double pass peak efficiency: 5% 
@@ -111,7 +111,7 @@ Optical Bandwidth: 160MHz
 
 ### 1092 (D1)
 <img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/2df410e8-e5ef-443d-814a-962d3021e2db" width = "300">
-<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/067ce9a1-98c3-4740-b3a4-d5756d3e64a1" width = "300">
+
 
 Double pass peak efficiency: 17%
 
@@ -121,7 +121,6 @@ Optical Bandwidth: 90MHz
 
 ### 422 (D1)
 <img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/b6135013-0bdf-4ff8-91fb-75d0aa759732" width = "300">
-<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/d76a4a26-68c5-4251-a08c-93adfe6e36cc" width = "300">
 
 
 Double pass peak efficiency: 5%
@@ -132,8 +131,6 @@ Optical Bandwidth: 180MHz
 
 ### 1033 (D1)
 <img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/06646485-b647-45cd-9b63-aa69942b67c1" width="300">
-<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/ec363ca2-707f-4271-a1f4-e52f507e76a6" width = "300">
-
 
 Double pass peak efficiency: 12%
 
@@ -143,7 +140,7 @@ Optical Bandwidth: 80MHz
 
 ### 674 (xwing)
 <img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/4c486c36-9e3c-4165-a32b-ace13db81cc5" width="300">
-<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/13357706-2722-4ade-b36b-8b359c9c32f2" width="300">
+
 
 Double pass peak efficiency: 12%
 
