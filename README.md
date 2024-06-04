@@ -5,7 +5,7 @@ This repo tracks our double pass breadboards.  The goal is to realize stable, mo
 Different versions of the breadboard are organized in directories labeled by the date (YY-MM) when the parts were *initially* ordered.  Each directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for the parts to be machined.
 
 
-Assembled 2023-03 version:  
+Assembled latest version (2024-06):  
  <image img src="./2023-03-version/2023-03-assembled.jpg" width="600"></image>
 
 
@@ -63,17 +63,6 @@ Here are tips for some specific problems that one may encounter while assembling
 ### Machined parts
 
 Hole tapping requirements: the 3.302 mm tapped holes need to be #8-32 screwed, the smaller ones (2.845 mm) should be #4-40 screwed, and the larger ones (5.157 mm diameter) should be 1/4''-20 screwed.
-
-
-# Double-pass breadboard overview
-
-## 1/2" Version
-<img src="https://user-images.githubusercontent.com/73464010/185268244-2909a4a2-1e7b-4073-b7e3-0711badd636a.jpg" width = "500">
-
-<img src="https://user-images.githubusercontent.com/73464010/185266223-bcfe905a-9b51-402f-a7c5-59fe4334a190.jpg" width = "500">
-
-## 1" Version
-<img src="https://user-images.githubusercontent.com/73464010/185269233-cd3dfe01-da16-4b9c-9376-25dac20ec4bf.jpg" width = "500">
 
 
 
