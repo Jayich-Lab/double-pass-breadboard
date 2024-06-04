@@ -17,8 +17,7 @@ Assembled 2023-03 version:
 
 # Assembly notes
 
-* Clean the machined parts before assembling.  
-* Center the laser light on the mirrors, waveplates, and PBS.  
+* Before assembling a new breadboard, clean the breadboard with soap and make sure there is on any grease residual on any breaboard component.    
 * Know the desired target center frequency and desired bandwidth.  
 
 ### Polarizing Beam Splitter Handling
@@ -41,17 +40,16 @@ After setting the distance between the AOM and plano-convex lens, place the lens
 * Keep the first order beam selected using the iris. Adjust the quarter wave plate and the flat mirror until the light reflected back from the PBS is maximized.
 * Check the double pass efficiency before fiber coupling. Check the bandwidth. It should be smaller, but comparable to the single pass bandwidth recorded in step 6.
 * If the bandwidth is significantly smaller for the double pass, then adjust the distance between the AOM and the lens to improve the bandwidth.
-* Couple the light into a fiber using two mirrors. Check the after fiber coupling efficiency.
+* Couple the light into the output fiber using two mirrors and Thorlabs collimator. See the next section for specific instructions on how to fiber couple with Thorlabs collimators. 
 
 ### Fiber coupling with Thorlabs collimator
 * First connect a multi-mode(MM) fiber to the ouput port for initial coupling. Use reverse fiber coupling method to get a rough alignment between output fiber and the laser. The reverse fiber coupling is accomplished by inputing another beam with a visual fault locator from the other end of the output fiber and match the locator beam path to the output beam path.
-* Turn Zθ1 adjuster clockwise to maximize the output, then continue to turn slightly beyond maximum (to about 95% of your local maximum). If turning an adjuster clockwise decreases output, skip that adjuster for that round of adjustments. Repeat for Zθ2, and then Zθ3. For the rest of the colimation process keep this order of operation (Zθ1-->Zθ2-->Zθ3). The maximum seen in passing will continue to increase until lens-to-fiber spacing is optimized (spot size is minimized). This strategy has the effect of translating the beam in a triangle of decreasing width with each set of adjustments. The beam's path is shown below with the point of view of the fiber that is being coupled into.
-* ![image](https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/13e20d5a-d1d1-453d-8352-f6e63863dda7)
+* Turn Zθ1 adjuster clockwise to maximize the output, then continue to turn slightly beyond maximum (to about 95% of your local maximum). If turning an adjuster clockwise decreases output, skip that adjuster for that round of adjustments. Repeat for Zθ2, and then Zθ3. For the rest of the colimation process keep this order of operation (Zθ1-->Zθ2-->Zθ3). The maximum seen in passing will continue to increase until lens-to-fiber spacing is optimized (spot size is minimized). This strategy has the effect of translating the beam in a triangle of decreasing width with each set of adjustments.
 * Once the local maxima values begin to decrease, reverse the direction, and turn each adjuster to maximize the output, and not beyond.
 * If coupling into a single-mode(SM) fiber, exchange the MM fiber with a SM fiber. The intensity measured by the power meter will likely drop significantly. Repeat Steps 3 and 4. The adjustments will be smaller and more sensitive. If adjustment of all screws in either direction lowers the output, the beam spot may be centered on the fiber core, but improperly focused.
 * Turn each adjuster a small amount (1/8th turn) in the same direction, then maximize each Zθ adjuster. If the new maximum is lower than the previous, turn each Zθ adjuster a small amount in the other direction and maximize. Repeat until absolute maximum is found.
 
-* For more information on the Thorlabs collimator, see [manual](https://www.thorlabs.com/drawings/19effe7ca9179470-EC8BF155-96AC-6091-8774197AF94FBEB8/PAF2P-A10A-Manual.pdf).
+* For more information on the Thorlabs collimator, find user manual for the collimator on [Thorlabs website](https://www.thorlabs.com/).
 
 ## Tips
 
