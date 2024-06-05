@@ -40,7 +40,7 @@ After setting the distance between the AOM and plano-convex lens, place the lens
 * Keep the first order beam selected using the iris. Adjust the quarter wave plate and the flat mirror until the light reflected back from the PBS is maximized.
 * Check the double pass efficiency before fiber coupling. Check the bandwidth. It should be smaller, but comparable to the single pass bandwidth recorded in step 6.
 * If the bandwidth is significantly smaller for the double pass, then adjust the distance between the AOM and the lens to improve the bandwidth.
-* Couple the light into the output fiber using two mirrors and Thorlabs collimator. See the next section for specific instructions on how to fiber couple with Thorlabs collimators. 
+* Couple the light into the output fiber using Thorlabs collimator and the two mirrors before the output port. See the next section for specific instructions on how to fiber couple with Thorlabs collimators. 
 
 ### Fiber coupling with Thorlabs collimator
 * First connect a multi-mode(MM) fiber to the ouput port for initial coupling. Use reverse fiber coupling method to get a rough alignment between output fiber and the laser. The reverse fiber coupling is accomplished by inputing another beam with a visual fault locator from the other end of the output fiber and match the locator beam path to the output beam path.
