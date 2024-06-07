@@ -8,6 +8,12 @@ Different versions of the breadboard are organized in directories labeled by the
 Assembled latest version (2024-06):  
  <image img src="./2023-03-version/2023-03-assembled.jpg" width="600"></image>
 
+## DPBB Schematic
+
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/66780b9b-c1c0-4126-9dc8-c5642e20a401" width="600">
+
+
+
 
 # To-dos
 * Measure performance - long-term stability, temperature stability, 
