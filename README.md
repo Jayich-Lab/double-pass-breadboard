@@ -5,12 +5,13 @@ This repo tracks our double pass breadboards.  The goal is to realize stable, mo
 Different versions of the breadboard are organized in directories labeled by the date (YY-MM) when the parts were *initially* ordered.  Each directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for the parts to be machined.
 
 
-Assembled latest version (2024-06):  
- <image img src="./2023-03-version/2023-03-assembled.jpg" width="600"></image>
+Assembled latest version (2024-06): 
+
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/6a206f6d-f5c5-45f5-b2c1-621a959aeb96" height="600">
 
 ## DPBB Schematic
 
-<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/66780b9b-c1c0-4126-9dc8-c5642e20a401" width="600">
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/66780b9b-c1c0-4126-9dc8-c5642e20a401" width="500">
 
 
 
