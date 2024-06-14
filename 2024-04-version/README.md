@@ -4,6 +4,8 @@ This version of the double pass breadboard was first ordered in April, 2024. The
 
 The breadboard base is compatible with previous methods of mounting the lens and AOM.
 
+# Parts
+
 ### Parts to be machined
 [STEP files](https://drive.google.com/drive/folders/17ZfntioATaHTT3IqYsM0CgbBKpX1f3IM)
 
@@ -22,7 +24,7 @@ The breadboard base is compatible with previous methods of mounting the lens and
 * 1x Half waveplate
 * 1x Polarizing Beam Splitter (PBS)
 
-We get our waveplates and PBS from [Union Optic](https://www.u-optic.com/). If the waveplates are not in the standard [Union Optic catalog](https://www.u-optic.com/index/siteid/2.html) we order custom waveplates, this is often the case.
+We get our waveplates and PBS from [Union Optic](https://www.u-optic.com/). If the waveplates are not in the standard [Union Optic catalog](https://www.u-optic.com/product) we order custom waveplates, this is often the case.
 
 ### Thorlabs
 * 1x [LMR1 Lens Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=LMR1#ad-image-0)
@@ -36,5 +38,3 @@ We get our waveplates and PBS from [Union Optic](https://www.u-optic.com/). If t
 * 1x [LM1-A Rotating Inner Carriage](https://www.thorlabs.com/thorproduct.cfm?partnumber=LM1-A)
 
 Note: the optics above are an example that can be used for 728nm light. When considering different wavelengths, the Fiber Port, PBS, mirrors, lens, and waveplates may need to be changed.
-
-# Future improvements
