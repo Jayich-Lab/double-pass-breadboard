@@ -11,7 +11,7 @@ Assembled latest version (2024-06):
 
 ## DPBB Schematic
 
-<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/66780b9b-c1c0-4126-9dc8-c5642e20a401" width="500">
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/103dcc86-bb69-48dd-bc1a-99cbfe87884c" width="500">
 
 
 
