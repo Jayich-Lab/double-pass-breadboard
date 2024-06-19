@@ -7,7 +7,9 @@ Different versions of the breadboard are organized in directories labeled by the
 
 Assembled latest version (2024-06): 
 
-<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/6a206f6d-f5c5-45f5-b2c1-621a959aeb96" height="600">
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/8e7131a3-f4d4-45b4-9db2-3a5d07e67313" width="500">
+
+
 
 ## DPBB Schematic
 
