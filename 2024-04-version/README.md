@@ -5,11 +5,14 @@ This version of the double pass breadboard was first ordered in April, 2024. The
 * Increased the amount of mirror mount holes for the two mirrors before the output port
 * Made lens mount smaller to have more room to translate
 * Waveplate mount sliding hole is made longer
-* 
+* Increased the room for AOM mount sliding track to move, which gives access to a wider range of angular position. 
 
 The breadboard base is compatible with previous methods of mounting the lens and AOM.
 
 # Parts
+Picture of the components
+
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/18fd3183-93b0-4de5-b227-877dc66b02de" width = "700">
 
 ### Parts to be machined
 [STEP files](https://drive.google.com/drive/folders/17ZfntioATaHTT3IqYsM0CgbBKpX1f3IM)
