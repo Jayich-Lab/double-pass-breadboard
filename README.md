@@ -12,9 +12,7 @@ Assembled latest version (2024-06):
 
 
 ## DPBB Schematic
-
-<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/5c053391-67bf-4e48-95a1-96741c15e3dc" width = "600">
-
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/eb544c83-2958-435b-92d7-aea09d73cee0" width= "600">
 
 
 
@@ -37,18 +35,17 @@ We use [Devcon 5 Minute Epoxy](https://itwperformancepolymers.com/products/devco
 After the input fiber port is a quarter waveplate and a half waveplate. The waveplate after the AOM is a quarter waveplate.
 
 ### Maximizing Double Pass Efficiency
-* Place the input fiber port, adjust two mirrors until the beam is horizontal. The beam should not be diverging anywhere throughout the breadboard, so it is important to use a beam profiler to measure the beam far away (~80cm) from the fiber port and use Zθ1, Zθ2, and Zθ3 on the input port to minimize beam divergence. This step is important to get decent AOM diffraction efficiency reasonable output fiber coupling.
-* Place the quarter and half wave plate and PBS in the beam path.
-* Place the AOM. Adjust the height of the incoming beam so the beam passes through the aperture's center. Keep the beam horizontal when adjusting the beam height. If the beam is too high or too low the beam will be clipped.
-* Adjust the AOM's angle, and maximize diffraction efficiency at the desired AOM center drive frequency using powermeter.
-* Place the iris to select the first order diffracted beam, and block other diffracted beams. 
-* Check the single pass bandwidth by changing the AOM driving frequency. Adjust the AOM to make sure that efficiency is high enough for the frequency of interest. Also make sure the first order beam is not clipped by the iris. Measure the single pass efficiency and bandwidth (and plot). This step will give you a rough estimation of the double pass efficiency and bandwidth. 
+* After plugging in the input fiber, use the 1/2-inch mirrors to adjust the beam path until it is horizontal before entering the AOM.
+* The beam should not be diverging anywhere throughout the breadboard, so it is important to use a beam profiler to measure the beam far away (~80cm) from the fiber port and use Zθ1, Zθ2, and Zθ3 on the input port to minimize beam divergence. This step is important to get decent double pass efficiency and reasonable output fiber coupling efficiency.
+* Adjust the height of the incoming beam so the beam passes through the aperture's center. Keep the beam horizontal when adjusting the beam height. If the beam is too high or too low the beam will be clipped.
+* Adjust the AOM's angle using the AOM mount sliding track until the first order diffraction beam has comparable intensity with the 0th order beam. Then maximize diffraction efficiency at the desired AOM center drive frequency using the 1/2-inch mirrors. Make sure the first order beam is not clipped by the iris.
+* Measure the single pass efficiency and bandwidth (and plot). This step will give you a rough estimation of the double pass efficiency and bandwidth. 
 * Place an plano-convex lens with f = 50 mm, after the AOM with convex side facing the AOM. Place the lens approximately a focal length away from the AOM. Adjust the height of the lens so the beam is centered on the lens. Adjust the position of the plano-convex lens so the spacing between the first and zeroth order beams do not chang after the lens. This step is crucial for getting a good double pass efficiency.
 * After setting the distance between the AOM and plano-convex lens, place the lens so the first order beam passes through the lens center. There are some references saying it would be better to let the zeroth order beam pass through center of the lens, but I (Mingyu) found aligning it with the first order beam actually improves the bandwidth.
 * Place the beam profiler about a focal length away from the lens, and try to find the spot where the beam width is the smallest.
-* Put a flat mirror at the smallest beam width position, and adjust the mirror so it reflects the light back into the AOM following the same path. Put a quarter wave plate in front of the mirror.
+* Put a flat mirror at the smallest beam width position, and adjust the mirror so it reflects the light back into the AOM following the same path (marked red on schematic). Put a quarter wave plate in front of the mirror.
 * Keep the first order beam selected using the iris. Adjust the quarter wave plate and the flat mirror until the light reflected back from the PBS is maximized. 
-* Check the double pass efficiency before fiber coupling. Check the bandwidth. It should be smaller, but comparable to the single pass bandwidth recorded in step 6.
+* Check the double pass efficiency before fiber coupling. Check the bandwidth. It should be smaller, but comparable to the single pass bandwidth recorded in step 5.
 * If the bandwidth is significantly smaller for the double pass, then adjust the distance between the AOM and the lens to improve the bandwidth.
 * Couple the light into the output fiber using Thorlabs collimator and the two mirrors before the output port. See the next section for specific instructions on how to fiber couple with Thorlabs collimators. 
 
