@@ -46,3 +46,7 @@ We get our waveplates and PBS from [Union Optic](https://www.u-optic.com/). If t
 * 1x [LM1-A Rotating Inner Carriage](https://www.thorlabs.com/thorproduct.cfm?partnumber=LM1-A)
 
 Note: the optics above are an example that can be used for 728nm light. When considering different wavelengths, the Fiber Port, PBS, mirrors, lens, and waveplates may need to be changed.
+
+# Future improvements
+
+* The addition of beam shaping optics before the AOM can greatly improve diffrication efficiency
