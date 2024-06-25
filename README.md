@@ -7,7 +7,7 @@ Different versions of the breadboard are organized in directories labeled by the
 
 Assembled latest version (2024-06): 
 
-<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/8e7131a3-f4d4-45b4-9db2-3a5d07e67313" width="500">
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/368243e8-b029-4ade-aab6-5072f72cc143" width="500">
 
 
 
@@ -26,7 +26,8 @@ Assembled latest version (2024-06):
 * Know the desired target center frequency and desired bandwidth.  
 
 ### Polarizing Beam Splitter Handling
-We use [Devcon 5 Minute Epoxy](https://itwperformancepolymers.com/products/devcon-5-minute-epoxy/) to secure polarizing beam splitter (PBS) cubes to their mounts. 
+
+We use [Devcon 2 Ton Epoxy](https://itwperformancepolymers.com/products/devcon/adhesives-sealants/devcon-2-ton-epoxy) to secure polarizing beam splitter (PBS) cubes to their mounts. 
 - Note: use only a little dab of epoxy for a single corner and avoid the joint between the two halves of the cube. If epoxy contacts this joint, it will seep in over time, eventually ruining the PBS.
 
 ### Waveplates
@@ -34,7 +35,7 @@ After the input fiber port is a quarter waveplate and a half waveplate. The wave
 
 ### Maximizing Double Pass Efficiency
 * After plugging in the input fiber, use the 1/2-inch mirrors to adjust the beam path until it is horizontal before entering the AOM.
-* The beam should not be diverging anywhere throughout the breadboard, so it is important to use a beam profiler to measure the beam far away (~80cm) from the fiber port, and use Zθ1, Zθ2, and Zθ3 on the input port to minimize beam divergence. This step is important to get decent double pass efficiency and reasonable output fiber coupling efficiency.
+* A collimated beam should not be diverging anywhere throughout the breadboard, so it is important to use a beam profiler to measure the beam far away (~80cm) from the fiber port, and use Zθ1, Zθ2, and Zθ3 on the input port to minimize beam divergence. This step is important to get decent double pass efficiency and reasonable output fiber coupling efficiency.
 * Adjust the height of the incoming beam so the beam passes through the aperture's center. Keep the beam horizontal when adjusting the beam height. If the beam is too high or too low, the beam will be clipped.
 * Adjust the AOM's angle using the AOM mount sliding track until the first order diffraction beam has comparable intensity with the 0th order beam. Then maximize diffraction efficiency at the desired AOM center drive frequency using the 1/2-inch mirrors. Make sure the first order beam is not clipped by the iris.
 * Measure the single pass efficiency and bandwidth (and plot). This step will give you a rough estimation of the double pass efficiency and bandwidth. 
@@ -42,7 +43,7 @@ After the input fiber port is a quarter waveplate and a half waveplate. The wave
 * Place the beam profiler about a focal length away from the lens, and try to find the spot where the beam width is the smallest.
 * Put a flat mirror at the smallest beam width position, and adjust the mirror so it reflects the light back into the AOM following the same path (marked red on schematic). 
 * Place the iris in front of the mirror and the quarter waveplate between the iris and the lens. Keep the first order beam selected using the iris. Adjust the quarter wave plate and the flat mirror until the light reflected back from the PBS is maximized. 
-* Check the double pass efficiency before fiber coupling. Check the bandwidth. It should be smaller, but comparable to the single pass bandwidth recorded in step 5.
+* Check the double pass efficiency and bandwidth before fiber coupling. The bandwidth should be smaller, but comparable to the single pass bandwidth recorded in step 5.
 * If the bandwidth is significantly smaller for the double pass, then adjust the distance between the AOM and the lens to improve the bandwidth.
 * Couple the light into the output fiber using Thorlabs collimator and the two mirrors before the output port. See the next section for specific instructions on how to fiber couple with Thorlabs collimators. 
 
