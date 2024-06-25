@@ -17,9 +17,7 @@ Assembled latest version (2024-06):
 
 
 # To-dos
-* Measure performance - long-term stability, temperature stability, 
-* Annotate a picture of a fully assembled breadboard, including laser paths to help clarify the instructions below.  
-* Diagram of the double pass setup.
+* Measure performance - long-term stability, temperature stability,
 
 
 # Assembly notes
