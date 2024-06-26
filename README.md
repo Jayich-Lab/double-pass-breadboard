@@ -34,16 +34,15 @@ We use [Devcon 2 Ton Epoxy](https://itwperformancepolymers.com/products/devcon/a
 After the input fiber port is a quarter waveplate and a half waveplate. The waveplate after the AOM is a quarter waveplate.
 
 ### Maximizing Double Pass Efficiency
-* After plugging in the input fiber, use the 1/2-inch mirrors to adjust the beam path until it is horizontal before entering the AOM.
-* A collimated beam should not be diverging anywhere throughout the breadboard, so it is important to use a beam profiler to measure the beam far away (~80cm) from the fiber port, and use Zθ1, Zθ2, and Zθ3 on the input port to minimize beam divergence. This step is important to get decent double pass efficiency and reasonable output fiber coupling efficiency.
+* Adjust the beam path until it is horizontal before entering the AOM.
+* Use a beam profiler to measure the beam far away (~80cm) from the input fiber port, and use Zθ1, Zθ2, and Zθ3 on the port to minimize beam divergence. This step is important to get decent double pass efficiency and reasonable output fiber coupling efficiency.
 * Adjust the height of the incoming beam so the beam passes through the aperture's center. Keep the beam horizontal when adjusting the beam height. If the beam is too high or too low, the beam will be clipped.
 * Adjust the AOM's angle using the AOM mount sliding track until the first order diffraction beam has comparable intensity with the 0th order beam. Then maximize diffraction efficiency at the desired AOM center drive frequency using the 1/2-inch mirrors. Make sure the first order beam is not clipped by the iris.
 * Measure the single pass efficiency and bandwidth (and plot). This step will give you a rough estimation of the double pass efficiency and bandwidth. 
-* Place an plano-convex lens with f = 50 mm, after the AOM with convex side facing the AOM. Place the lens approximately a focal length away from the AOM. Adjust the height of the lens so the beam is centered on the lens. Adjust the position of the plano-convex lens so the first order beam passes through the lens center. This step is crucial for getting a good double pass efficiency. (There are some references saying it would be better to let the zeroth order beam pass through center of the lens, but I (Mingyu) found aligning it with the first order beam actually improves the bandwidth)
-* Place the beam profiler about a focal length away from the lens, and try to find the spot where the beam width is the smallest.
-* Put a flat mirror at the smallest beam width position, and adjust the mirror so it reflects the light back into the AOM following the same path (marked red on schematic). 
-* Place the iris in front of the mirror and the quarter waveplate between the iris and the lens. Keep the first order beam selected using the iris. Adjust the quarter wave plate and the flat mirror until the light reflected back from the PBS is maximized. 
-* Check the double pass efficiency and bandwidth before fiber coupling. The bandwidth should be smaller, but comparable to the single pass bandwidth recorded in step 5.
+* Place an plano-convex lens with f = 50 mm, after the AOM with convex side facing the AOM. Place the lens a focal length away from the AOM. Adjust the position of the plano-convex lens so the 0th order beam passes through the lens center. This step is crucial for getting a good double pass efficiency.
+* Place the beam profiler a focal length away from the lens, and find the spot where the beam width is the smallest.
+* Put a flat mirror at the smallest beam width position, then adjust the quarter wave plate and the flat mirror until the light reflected back from the PBS is maximized. 
+* Check the double pass efficiency and bandwidth before fiber coupling. The bandwidth will be smaller, but comparable to the single pass bandwidth recorded in step 5.
 * If the bandwidth is significantly smaller for the double pass, then adjust the distance between the AOM and the lens to improve the bandwidth.
 * Couple the light into the output fiber using Thorlabs collimator and the two mirrors before the output port. See the next section for specific instructions on how to fiber couple with Thorlabs collimators. 
 
