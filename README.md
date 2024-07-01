@@ -15,52 +15,28 @@ Assembled latest version (2024-06):
 <img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/4fecbb3c-94f0-4d26-af58-eb430a82806f" width = "600">
 
 
-
 # To-dos
-* Measure performance - long-term stability, temperature stability,
-
-
-# Assembly notes
-
-* Before assembling a new breadboard, clean the breadboard with soap and make sure there is on any grease residual on any breaboard component.    
-* Know the desired target center frequency and desired bandwidth.  
+* Measure performance - long-term stability, temperature stability.
 
 ### Polarizing Beam Splitter Handling
 
 We use [Devcon 2 Ton Epoxy](https://itwperformancepolymers.com/products/devcon/adhesives-sealants/devcon-2-ton-epoxy) to secure polarizing beam splitter (PBS) cubes to their mounts. 
 - Note: use only a little dab of epoxy for a single corner and avoid the joint between the two halves of the cube. If epoxy contacts this joint, it will seep in over time, eventually ruining the PBS.
 
-### Waveplates
-After the input fiber port is a quarter waveplate and a half waveplate. The waveplate after the AOM is a quarter waveplate.
 
 ### Maximizing Double Pass Efficiency
-* Adjust the beam path until it is horizontal before entering the AOM.
-* Use a beam profiler to measure the beam far away (~80cm) from the input fiber port, and use Zθ1, Zθ2, and Zθ3 on the port to minimize beam divergence. This step is important to get decent double pass efficiency and reasonable output fiber coupling efficiency.
-* Adjust the height of the incoming beam so the beam passes through the aperture's center. Keep the beam horizontal when adjusting the beam height. If the beam is too high or too low, the beam will be clipped.
-* Adjust the AOM's angle using the AOM mount sliding track until the first order diffraction beam has comparable intensity with the 0th order beam. Then maximize diffraction efficiency at the desired AOM center drive frequency using the 1/2-inch mirrors. Make sure the first order beam is not clipped by the iris.
-* Measure the single pass efficiency and bandwidth (and plot). This step will give you a rough estimation of the double pass efficiency and bandwidth. 
-* Place an plano-convex lens with f = 50 mm, after the AOM with convex side facing the AOM. Place the lens a focal length away from the AOM. Adjust the position of the plano-convex lens so the 0th order beam passes through the lens center. This step is crucial for getting a good double pass efficiency.
+* Adjust the beam path until it is level over the length of the breadboard.
+* Use a beam profiler to measure the beam far away (~80cm) from the input fiber port, and minimize beam divergence using the three Zθ adjusters. This step is important to get decent double pass efficiency and reasonable output fiber coupling efficiency.
+* Adjust the height of the incoming beam so the beam passes through the center of the AOM aperture. Keep the beam level when adjusting the beam height. 
+* Adjust the AOM's angle using the AOM mount sliding track to maximize the diffraction efficiency at the desired AOM center driving frequency.  
+* Measure the single pass efficiency and bandwidth.
+* Place an plano-convex lens with f = 50 mm a focal length away from the AOM with convex side facing the AOM. Adjust the position of the plano-convex lens so the 0th order beam passes through the lens center. This step is crucial for getting a good double pass efficiency.
 * Place the beam profiler a focal length away from the lens, and find the spot where the beam width is the smallest.
-* Put a flat mirror at the smallest beam width position, then adjust the quarter wave plate and the flat mirror until the light reflected back from the PBS is maximized. 
+* Put a flat mirror at the smallest beam width position, and adjust mirror to retro-reflect the beam. 
+* Adjust the quarter wave plate and the flat mirror until the light reflected back from the PBS is maximized. 
 * Check the double pass efficiency and bandwidth before fiber coupling. The bandwidth will be smaller, but comparable to the single pass bandwidth recorded in step 5.
 * If the bandwidth is significantly smaller for the double pass, then adjust the distance between the AOM and the lens to improve the bandwidth.
-* Couple the light into the output fiber using Thorlabs collimator and the two mirrors before the output port. See the next section for specific instructions on how to fiber couple with Thorlabs collimators. 
-
-### Fiber coupling with Thorlabs collimator
-* First connect a multi-mode(MM) fiber to the ouput port for initial coupling. Use reverse fiber coupling method to get a rough alignment between output fiber and the laser. The reverse fiber coupling is accomplished by inputing another beam with a visual fault locator from the other end of the output fiber and match the locator beam path to the output beam path.
-* Turn Zθ1 adjuster clockwise to maximize the output, then continue to turn slightly beyond maximum (to about 95% of your local maximum). If turning an adjuster clockwise decreases output, skip that adjuster for that round of adjustments. Repeat for Zθ2, and then Zθ3. For the rest of the colimation process keep this order of operation (Zθ1-->Zθ2-->Zθ3). The maximum seen in passing will continue to increase until lens-to-fiber spacing is optimized (spot size is minimized). This strategy has the effect of translating the beam in a triangle of decreasing width with each set of adjustments.
-* Once the local maxima values begin to decrease, reverse the direction, and turn each adjuster to maximize the output, and not beyond.
-* If coupling into a single-mode(SM) fiber, exchange the MM fiber with a SM fiber. The intensity measured by the power meter will likely drop significantly. Repeat Steps 3 and 4. The adjustments will be smaller and more sensitive. If adjustment of all screws in either direction lowers the output, the beam spot may be centered on the fiber core, but improperly focused.
-* Turn each adjuster a small amount (1/8th turn) in the same direction, then maximize each Zθ adjuster. If the new maximum is lower than the previous, turn each Zθ adjuster a small amount in the other direction and maximize. Repeat until absolute maximum is found.
-
-* For more information on the Thorlabs collimator, find user manual for the collimator on [Thorlabs website](https://www.thorlabs.com/).
-
-## Tips
-
-Here are tips for some specific problems that one may encounter while assembling a DPBB.
-
-* When IntraAction AOM shows low first pass efficiency/bandwidth, and you are quite certain that there is no issue with alignment, try flipping the AOM upside down and re-align.
-* Always use broadband dielectric plane mirrors for breadboard assembly. Using mirrors with curvature may significantly reduce the fiber coupling efficiency).
+* Couple the light into the output fiber using the two mirrors before the output port. For detailed instructions on how to fiber couple with [Thorlabs PAF2 Series Collimators](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2940), look for the item number of the specific collimator on the website and see its user manual. 
 
 # Machining notes
 
