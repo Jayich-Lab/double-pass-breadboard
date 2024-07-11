@@ -30,7 +30,7 @@ We use [Devcon 2 Ton Epoxy](https://itwperformancepolymers.com/products/devcon/a
 * Adjust the height of the incoming beam so the beam passes through the center of the AOM aperture. Keep the beam level when adjusting the beam height. 
 * Adjust the AOM's angle using the AOM mount sliding track to maximize the diffraction efficiency at the desired AOM center driving frequency.  
 * Measure the single pass efficiency and bandwidth.
-* Place an plano-convex lens with f = 50 mm a focal length away from the AOM with convex side facing the AOM. Adjust the position of the plano-convex lens so the 0th order beam passes through the lens center. This step is crucial for getting a good double pass efficiency.
+* Place an plano-convex lens a focal length (f = 50 mm) away from the AOM with the convex side facing the AOM. Adjust the position of the plano-convex lens so the 0th order beam passes through the center of the lens. This step is crucial for getting a good double pass efficiency.
 * Place the beam profiler a focal length away from the lens, and find the spot where the beam width is the smallest.
 * Put a flat mirror at the smallest beam width position, and adjust mirror to retro-reflect the beam. 
 * Adjust the quarter wave plate and the flat mirror until the light reflected back from the PBS is maximized. 
