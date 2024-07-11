@@ -36,7 +36,8 @@ We use [Devcon 2 Ton Epoxy](https://itwperformancepolymers.com/products/devcon/a
 * Adjust the quarter wave plate and the flat mirror until the light reflected back from the PBS is maximized. 
 * Check the double pass efficiency and bandwidth before fiber coupling. The bandwidth will be smaller, but comparable to the single pass bandwidth recorded in step 5.
 * If the bandwidth is significantly smaller for the double pass, then adjust the distance between the AOM and the lens to improve the bandwidth.
-* Couple the light into the output fiber using the two mirrors before the output port. For detailed instructions on how to fiber couple with [Thorlabs PAF2 Series Collimators](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2940), see [Thorlabs manual](https://www.thorlabs.com/drawings/7d9ef555c8e29a3b-9ED63952-0AFC-37E4-8C5124F902B4BF9D/PAF2P-A10A-Manual.pdf) chapter 6.
+* Couple the light into the output fiber using the two mirrors before the output port. For detailed instructions on how to fiber couple with [Thorlabs PAF2 Series Collimators](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2940), see [Thorlabs manual](https://www.thorlabs.com/_sd.cfm?fileName=TTN132194-D02.pdf&partNumber=PAF2A-A10A) chapter 6.
+
 
 # Machining notes
 
