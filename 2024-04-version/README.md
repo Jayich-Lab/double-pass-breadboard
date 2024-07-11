@@ -10,8 +10,7 @@ This version of the double pass breadboard was first ordered in April, 2024. The
 The breadboard base is compatible with previous methods of mounting the lens and AOM.
 
 # Parts
-Picture of the components
-
+The machined aluminium components of the breadboard: 
 <img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/18fd3183-93b0-4de5-b227-877dc66b02de" width = "700">
 
 ### Parts to be machined
