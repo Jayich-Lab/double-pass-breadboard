@@ -1,16 +1,13 @@
 # README
 
 This version of the double pass breadboard was first ordered in April, 2024. The overall design is similar to [2023-10-version](https://github.com/Jayich-Lab/double-pass-breadboard/tree/updated-README-for-2024-04-version/2023-10-version) but with several minor improvements
-* Added an indentation to the beam splitter mount to fix the orientation of the PBS
-* Increased the number of mirror mount holes for the two mirrors before the output fiber port
-* Made the lens mount smaller to have more room to translate
-* Made the waveplate mount sliding hole longer
-* Increased the space for the AOM mount sliding track to rotate 
-
-The breadboard base is compatible with previous methods of mounting the lens and AOM.
+* Added an indentation to the beam splitter mount to fix the orientation of the PBS.
+* Increased the number of mirror mount holes for the two mirrors before the output fiber port.
+* Made the lens mount smaller to provide more room for translation.
+* Made the waveplate mount sliding hole longer.
+* Increased the space for the AOM mount sliding track to rotate.
 
 # Parts
-The machined aluminium components for each breadboard: 
 
 <img src="https://github.com/user-attachments/assets/4563595a-e24d-4b18-a68f-761ee6377cdb" width = "700">
 
