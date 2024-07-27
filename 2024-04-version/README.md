@@ -20,10 +20,11 @@ This version of the double pass breadboard was first ordered in April, 2024. The
 * 1x PBS_mount
 * 1x iris_mount
 * 1x AOM_mount
-* 1x AOM specific adapter plate
+* 1x AOM adapter plate (there are different parts depending on the AOM)
 
-### Newport Mirror mount
+### Mirror mount
 * 6x [ST05-F2H ZeroDrift Optical Mount](https://www.newport.com/p/ST05-F2H)
+* (Compatible with other 1/2" mirror mounts)
  
 ### Wuhan Union Optic Inc.
 * 2x Quarter waveplates
@@ -47,4 +48,4 @@ Note: the optics above are an example that can be used for 728nm light.
 
 # Future improvements
 
-* The addition of beam shaping optics before the AOM can greatly improve diffraction efficiency
+* The addition of beam shaping optics before the AOM can improve diffraction efficiency
