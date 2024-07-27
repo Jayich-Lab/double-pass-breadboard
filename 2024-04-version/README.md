@@ -24,7 +24,8 @@ This version of the double pass breadboard was first ordered in April, 2024. The
 
 ### Mirror mount
 * 6x [ST05-F2H ZeroDrift Optical Mount](https://www.newport.com/p/ST05-F2H)
-* (Compatible with other 1/2" mirror mounts)
+
+ Compatible with other 1/2" mirror mounts.
  
 ### Wuhan Union Optic Inc.
 * 2x Quarter waveplates
@@ -48,4 +49,4 @@ Note: the optics above are an example that can be used for 728nm light.
 
 # Future improvements
 
-* The addition of beam shaping optics before the AOM can improve diffraction efficiency
+* The addition of beam shaping optics before the AOM can improve diffraction efficiency.
