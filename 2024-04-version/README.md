@@ -22,7 +22,7 @@ This version of the double pass breadboard was first ordered in April, 2024. The
 * 1x AOM_mount
 * 1x AOM specific adapter plate
 
-### Newport mirror mount
+### Newport Mirror mount
 * 6x [ST05-F2H ZeroDrift Optical Mount](https://www.newport.com/p/ST05-F2H)
  
 ### Wuhan Union Optic Inc.
@@ -43,7 +43,7 @@ We get our waveplates and PBS from [Union Optic](https://www.u-optic.com/). If t
 * 1x [LM1-B Rotation Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=LM1-B)
 * 1x [LM1-A Rotating Inner Carriage](https://www.thorlabs.com/thorproduct.cfm?partnumber=LM1-A)
 
-Note: the optics above are an example that can be used for 728nm light. When considering different wavelengths, the Fiber Port, PBS, mirrors, lens, and waveplates may need to be changed.
+Note: the optics above are an example that can be used for 728nm light. 
 
 # Future improvements
 
