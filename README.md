@@ -1,6 +1,6 @@
 # double-pass-breadboard
 
-The goal of this project is to realize stable, modular, and compact double pass AOM systems for controlling the frequency and amplitude of laser light.  This project was directly inspired by [Ike Chuang's group](http://web.mit.edu/~cua/www/quanta/).
+The goal of this project is to realize stable, modular, and compact double pass acousto-optic modulator (AOM) systems for controlling the frequency and amplitude of laser light.  This project was directly inspired by [Ike Chuang's group](http://web.mit.edu/~cua/www/quanta/).
 
 Breadboard versions are organized in directories labeled by the date (YY-MM) when the machined parts were *initially* ordered.  Each directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for the parts to be machined.
 
