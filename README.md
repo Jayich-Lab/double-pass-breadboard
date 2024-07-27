@@ -5,13 +5,13 @@ The goal of this project is to realize stable, modular, and compact double pass 
 Breadboard versions are organized in directories labeled by the date (YY-MM) when the machined parts were *initially* ordered.  Each directory includes a README with a link to the corresponding STEP files (GitHub doesn't support the STEP file format) for the parts to be machined.
 
 
-Assembled latest version (2024-04): 
+Assembled latest version ([2024-04-version](https://github.com/Jayich-Lab/double-pass-breadboard/tree/updated-README-for-2024-04-version/2024-04-version)): 
 
 <img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/368243e8-b029-4ade-aab6-5072f72cc143" width="500">
 
 
 
-## DPBB Schematic
+## Schematic
 <img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/4fecbb3c-94f0-4d26-af58-eb430a82806f" width = "600">
 
 
