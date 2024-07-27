@@ -17,7 +17,7 @@ Assembled latest version (2024-06):
 
 ## Polarizing Beam Splitter Handling
 
-We use [Pattex repair extreme](https://www.pattexarabia.com/products/central-pdp.html/pattex-repair-extreme/SAP_0201OAP03X70.html) to secure the polarizing beam splitter (PBS) cubes to their mounts. 
+We use [Pattex Repair Extreme](https://www.pattexarabia.com/products/central-pdp.html/pattex-repair-extreme/SAP_0201OAP03X70.html) to secure the polarizing beam splitter (PBS) cubes to their mounts. 
 - Note: use only a little dab of epoxy for a single corner and avoid the joint between the two halves of the cube. If epoxy contacts this joint, it will seep in over time, eventually ruining the PBS.
 
 
