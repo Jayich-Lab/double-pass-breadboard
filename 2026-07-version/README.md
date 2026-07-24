@@ -1,16 +1,16 @@
 # README
 
 This version of the double pass breadboard was first ordered in July 2026. The design builds off of [2024-04-version](https://github.com/Jayich-Lab/double-pass-breadboard/tree/updated-README-for-2026-07-version/2024-04-version), with two additional mirrors and a fiberport for recovering unshifted ouput light. It also features a new AOM mounting system and several other changes:
-* The AOM is now attached to a tailored L-bracket which screws into a kinematic mount so that the AOM position can be finely tuned. The kinematic mount is attached to an elongated version of the [2024-04-version](https://github.com/Jayich-Lab/double-pass-breadboard/tree/updated-README-for-2026-07-version/2024-04-version) rotation mount, which provides a coarse degree of freedom during initial alignment. A second screw slot was added to this rotation mount to compensate torque from the kinematic mount.
+* The AOM is now attached to a tailored L-bracket which screws into a kinematic mount to provide fine adjustment of the AOM position. The kinematic mount is attached to an elongated version of the [2024-04-version](https://github.com/Jayich-Lab/double-pass-breadboard/tree/updated-README-for-2026-07-version/2024-04-version) rotation mount, which provides a coarse degree of freedom during initial alignment. A second screw slot was added to this rotation mount to improve stability.
 * Reduced the footprint of the polarizing beam splitter mount.
 * Increased the number of mirror mount holes to nine for all mirrors between the fiber ports and AOM.
 * Redesigned the lens mount to add a translational degree of freedom perpendicular to the beam axis.
 * Increased the board height by 1.50 mm to ensure all threaded holes have more than three threads for screw engagement.
-* Eliminated the quarter waveplate and mirror between input fiber port and polarizing beam splitter.
-* Added both quarter and half waveplates before the output fiber port.
+* Eliminated the mirror between input fiber port and polarizing beam splitter.
+* Added a half waveplate before the frequency shifted output fiber port.
 * Decreased the overall footprint (possible because of switch to vertical drive mirror mounts).
 * Fixed an alignment issue of holes for mounting board to optics table.
-* In order to make the above changes, the positions of most optical devices were changed.
+* In order to make the above changes, the positions of most optical devices were changed from the previous version.
 
 # Parts
 
