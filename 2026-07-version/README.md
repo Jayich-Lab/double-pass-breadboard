@@ -1,18 +1,18 @@
 # README
 
 This version of the double pass breadboard was first ordered in July 2026. The design builds off the [2024-04-version](https://github.com/Jayich-Lab/double-pass-breadboard/tree/updated-README-for-2026-07-version/2024-04-version), with two additional mirrors and a fiberport for frequency unshifted light pickoff (this is optional when setting up the board). It also features a new AOM mounting system and several other changes:
-* The AOM is now attached to a tailored L-bracket that screws into a kinematic mount which enables fine adjustment of the AOM position. The kinematic mount is attached to an elongated version of the [2024-04-version](https://github.com/Jayich-Lab/double-pass-breadboard/tree/updated-README-for-2026-07-version/2024-04-version) rotation mount, which provides a coarse degree of freedom during initial alignment. A second screw slot was added to this rotation mount.
+* The AOM is now attached to a model-tailored L-bracket that screws into a kinematic mount which enables fine adjustment of the AOM position. The kinematic mount is attached to an elongated version of the [2024-04-version](https://github.com/Jayich-Lab/double-pass-breadboard/tree/updated-README-for-2026-07-version/2024-04-version) rotation mount, which provides a coarse degree of freedom during initial alignment. This elongated mount is secured to the board with two screws for improved stability.
 * Reduced the footprint of the polarizing beam splitter mount.
-* Increased the number of mirror mount holes to nine for all mirrors between the fiber ports and AOM.
+* Increased the number of mirror mount holes to nine for most mirrors.
 * Redesigned the lens mount to add a translational degree of freedom perpendicular to the beam axis.
 * Added more holes to the breadboard base to provide a coarse degree of freedom over both the lens and mirror positions perpendicular to the beam axis.
 * Increased the board height by 1.50 mm to ensure all threaded holes have more than three threads for screw engagement.
 * Eliminated the mirror between input fiber port and polarizing beam splitter.
 * Added a half waveplate before the frequency shifted output fiber port.
 * Decreased the overall footprint (possible because of switch to vertical drive mirror mounts).
-* Fixed an issue with mounting hole positions so that all three mounting holes can be used simultaneously to mount the board to an optics table.
-* In order to make all above changes, the positions of several componentss devices were changed from the previous version.
-
+* Fixed an issue with mounting hole positions so that all three mounting holes can be used simultaneously to mount the board to optics table.
+* In order to make changes listed abovce, the positions of several components were changed from the previous version.
+* Switched to using [Thorlabs PAF2 series collimator](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2940) model with smallest available focal length (PAF2A-A4x) because we have found that reducing beam waist improves efficiency (because AOM aperture diameter is on the order of beam waist).
 # Parts
 
 <img src="2026-07_DP_breadboard_schematic.jpg" width="700">
@@ -25,8 +25,10 @@ This version of the double pass breadboard was first ordered in July 2026. The d
 * 1x PBS_mount
 * 1x iris_mount
 * 1x lens_mount
-* 1x AOM to kinematic mount bracket (there are different parts depending on the AOM used)
-* 1x Rotating kinematic mount base plate (there are different parts depending on the AOM used)
+* 1x company_AOMsize_kinmount (AOM to kinematic mount bracket - there are different parts depending on the AOM used)
+* 1x company_AOMsize_base (rotating kinematic mount base plate - there are different parts depending on the AOM used)
+
+This board could be adapted for different AOM models beyond the three we use, but the last two parts in the above list would likely need to be modified.
 
 ### Mirror mount
 * 7x [Thorlabs POLARIS-K05VS2](https://www.thorlabs.com/item/POLARIS-K05VS2) (5x if board setup without unshifted light pickoff)
