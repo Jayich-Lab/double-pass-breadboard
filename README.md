@@ -22,9 +22,9 @@ We use [Pattex Repair Extreme](https://www.pattexarabia.com/products/central-pdp
 * Measure the single pass efficiency and bandwidth.
 * Place a plano-convex lens a focal length (f = 50 mm) away from the AOM with the convex side facing the AOM. Adjust the position of the plano-convex lens so the 0th order beam passes through the center of the lens.
 * Put a flat mirror at the smallest beam width position, and adjust mirror to retro-reflect the beam. 
-* Adjust the quarter wave plate and flat mirror to maximize the light transmitted through the PBS. 
+* Adjust the quarter wave plate and the flat mirror to maximize the light transmitted through the PBS. 
 * Check the double pass efficiency and bandwidth before fiber coupling. 
-* If the bandwidth is significantly smaller for the double pass than single pass, adjust the distance between AOM and lens to improve the bandwidth.
+* If the bandwidth is significantly smaller for the double pass than the single pass, adjust the distance between the AOM and lens to improve the bandwidth.
 * Couple the light into the output fiber using the two mirrors before the output port. For detailed instructions on how to fiber couple with Thorlabs PAF2 Series collimators, see [Thorlabs manual](https://www.thorlabs.com/_sd.cfm?fileName=TTN132194-D02.pdf&partNumber=PAF2A-A10A) chapter 6.
 
 ## To-do
