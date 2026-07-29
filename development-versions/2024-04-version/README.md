@@ -11,6 +11,8 @@ This version of the double pass breadboard was first ordered in April, 2024. The
 
 <img src="https://github.com/user-attachments/assets/4563595a-e24d-4b18-a68f-761ee6377cdb" width = "700">
 
+## Schematic
+<img src="https://github.com/Jayich-Lab/double-pass-breadboard/assets/101778987/4fecbb3c-94f0-4d26-af58-eb430a82806f" width = "600">
 
 ### Parts to be machined
 [STEP files](https://drive.google.com/drive/folders/17ZfntioATaHTT3IqYsM0CgbBKpX1f3IM)
